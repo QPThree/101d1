@@ -1,4 +1,4 @@
-# Mardown to Style up
+# Markdown to Style up
 
 Markdown Language is used to style text on web pages.  Markdown files can be identified by their extension '.md'.
 
@@ -6,11 +6,11 @@ Markdown utilizes non-letter characters to give your web page flair and structur
 
 Some common examples are 
 
-#headers
+# headers
 > With the '#' key
 
-*Unordered 
-*lists
+* Unordered 
+* lists
 >with the '*' key
 
 *Italics*
