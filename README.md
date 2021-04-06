@@ -13,3 +13,5 @@ Learning has no _destination_ or _endpoint_.  It is a _continuous_ path we choos
 ## Further Readings
 
 [Learning Markdown](LearningMarkdown.md)
+
+[Coder's Computer](CodersComputer.md)
