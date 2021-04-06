@@ -4,7 +4,7 @@ Markdown Language is used to style text on web pages.  Markdown files can be ide
 
 Markdown utilizes non-letter characters to give your web page flair and structure.  
 
-Some common examples are 
+**Some common examples are:** 
 
 # headers
 > With the '#' key
