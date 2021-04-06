@@ -1,3 +1,15 @@
+#**GROWTH MINDSET**
+## Culitvaing Growth
+
+Learning has no _destination_ or _endpoint_.  It is a _continuous_ path we choose to go down.  
+
+- Learning, especially in tech, is never-ending
+- I only know that there is much I do not know
+- Standing still is moving backwards.  You will be left behind.
+![Image](https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=820&q=80)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QPThree/101d1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -28,10 +40,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QPThree/101d1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
