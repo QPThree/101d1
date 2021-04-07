@@ -29,6 +29,8 @@ Some basic text editors come pre-installed on your operating system.  These opti
 
 A terminal is essential a command line interface to interact with your computer.  Instead of clicking and moving things graphically and visually, you interact and give 'commands' view text.
 
+### ShortCuts
+
 While daunting at first, terminal is full of short-cuts which can be used to save you precious time and googing-energy. Some common shortcuts include:
 
 * Up/Down Arrow key
@@ -51,3 +53,11 @@ While daunting at first, terminal is full of short-cuts which can be used to sav
 
 * cd
 > used to change directory.  Will be immediately followed by directory in which you'd like to move to
+
+### Closing Concepts
+
+A few reminders when using terminal and the command line:
+
+1. Everything is treated as a file under linux.  Your folder, application, and directory will all be handled as 'files'.
+2. Linux is case sensitive.  Everything will be read as carefully as your password.  Treat your commands with the same attention to detail.
+3. Linux is extentionless.  Meaning files can have any extension they want, or none at all.  Linux will deal with them adequately regardless.
