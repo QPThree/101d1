@@ -1,21 +1,17 @@
-# **GROWTH MINDSET**
-## Cultivaing Growth
+### Quentin's Lab 102 Reading Notes
 
-Learning has no _destination_ or _endpoint_.  It is a _continuous_ path we choose to go down.  
+My reading notes are here for the following reaasons:
 
-- Learning, especially in tech, is never-ending
-- I only know that there is much I do not know
-- Standing still is moving backwards.  You will be left behind.
-![Image](https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=820&q=80)
+1. Take notes of what I read so I can further digest the material
+2. Practice working with git and github
+3. I will edit this soon....
 
+## Q's Notes
 
-
-## Further Readings
+[Growth Mindset](growthmindset.md)
 
 [Learning Markdown](learningmarkdown.md)
 
 [Coder's Computer](coderscomputer.md)
 
 [Revisions and the Cloud](revisionsandthecloud.md)
-
-
