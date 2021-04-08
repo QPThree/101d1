@@ -63,4 +63,5 @@ A few reminders when using terminal and the command line:
 3. Linux is extentionless.  Meaning files can have any extension they want, or none at all.  Linux will deal with them adequately regardless.
 
 ~ QP3
+
 [Home](README.md)
