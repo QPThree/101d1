@@ -1,4 +1,4 @@
-### Quentin's Lab 102 Reading Notes
+# Quentin's Lab 102 Reading Notes
 
 My reading notes are here for the following reaasons:
 
