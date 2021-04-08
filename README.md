@@ -1,10 +1,11 @@
-# Quentin's Lab 102 Reading Notes
+# Quentin's CF 102 Reading Notes
 
-My reading notes are here for the following reaasons:
 
-1. Take notes of what I read so I can further digest the material
-2. Practice working with git and github
-3. I will edit this soon....
+This site will act as a one stop shop for my reading notes from CF 102.  The purposes of this site includes:
+
+1. Further Digest Reading Material
+2. Practice With Git and Github
+3. Submit Assignments
 
 ## Q's Notes
 
