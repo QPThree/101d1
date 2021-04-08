@@ -61,3 +61,6 @@ A few reminders when using terminal and the command line:
 1. Everything is treated as a file under linux.  Your folder, application, and directory will all be handled as 'files'.
 2. Linux is case sensitive.  Everything will be read as carefully as your password.  Treat your commands with the same attention to detail.
 3. Linux is extentionless.  Meaning files can have any extension they want, or none at all.  Linux will deal with them adequately regardless.
+
+
+[Home](README.md)
