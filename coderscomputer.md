@@ -62,5 +62,5 @@ A few reminders when using terminal and the command line:
 2. Linux is case sensitive.  Everything will be read as carefully as your password.  Treat your commands with the same attention to detail.
 3. Linux is extentionless.  Meaning files can have any extension they want, or none at all.  Linux will deal with them adequately regardless.
 
-
+~ QP3
 [Home](README.md)

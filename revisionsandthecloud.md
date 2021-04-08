@@ -24,9 +24,30 @@ Git works by having a main repository, or location, for your program.  This is t
 3. Push - File is pushed from the cloned local repository to the main repository that resides in the cloud!
 
 ### Read Between the Letters
-More will go here...
+
+Prior to 'add' you will have edited your actual file locally via VSCode or a similar text editor.  
+
+Once added using git in terminal:
+
+> git add filename.something
+
+You will commit the changes with a message:
+
+> git commit -m 'your message here'
+
+Finally, we push!
+
+>git push
+
+To check your status at any point, you can use the status command
+
+> git status
+
+Status will give you details such as how your local cloned repo matches up with the main repo.  It is useful to see what files have been changed and need to be committed and pushed to the main!
 
 
+Get in terminal.  Practice these commands. You'll be a Git Giant in no time. 
 
 
+~ QP3
 [Home](README.md)
