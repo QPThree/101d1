@@ -2,11 +2,11 @@
 ---
 ## Git Out of Here!
 
-Aircraft pilots have utilize black boxes.  These boxes log every single maneuver and input the pilots do.  Data on the black box can store all of these inputs and be viewed at future dates (e.g. there may be a mishap that requires investigation into the flight).
+Every aircraft contains what are known as 'black boxes'.  These boxes log every maneuver and input the pilots make on the aircraft.  Aircraft direction, speed, altitude and flightpath are all logged on the black box.  Data on the black box stores all of these inputs and may be viewed at future dates (e.g. there may be a mishap that requires investigation into the flight).
 
-Git is the black box for programmers!  Only, if a programmer crashes and burns, the beauty of Git is they can load to a previous state (or snapshot) or their program and start again!  
+Git is the black box for programmers!  Fortunately for developers (and unfortunate for pilots) if a program crashes and burns, Git can load to a previous state (or snapshot) of their program and start again!  
 
-Git saves snapshots and previous states of every single action.  Project teammates may see what lines of code were added or taken away, what functions were changed and how, or even leave comments for one another!
+Git allows developers to save snapshots and previous states of every single action.  Project teammates may see what lines of code were added or taken away, what functions were changed and how, or even leave comments for one another!
 
 ---
 ## Local Git <--> Cloud Git
