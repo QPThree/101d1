@@ -37,7 +37,7 @@ You will commit the changes with a message:
 
 Finally, we push!
 
->git push
+>git push origin main
 
 To check your status at any point, you can use the status command
 
