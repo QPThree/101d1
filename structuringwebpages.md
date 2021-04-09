@@ -84,6 +84,8 @@ Some common tags are:
 
 HTML 5 added new tags that can be used to structure your web pages.  While previous version of HTML utilized the '< div >' tag with id's, HTML5  has added layout elements such as the ones listed below.
 
+![HTML5](https://www.w3schools.com/html/img_sem_elements.gif)
+
 < page >
 
 < aside >
