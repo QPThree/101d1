@@ -1,0 +1,45 @@
+# Structuring Your Web Page
+
+When your house was built, the builders likely had a plan or blue print of how the house would be made.  This helps the form of the building fit it's function, cuts down on waste and mistakes, and gives a reference for materials and resources required to complete the project.  
+
+Web Design is the same!  There are tools and processes to help us tailor make each site for it's purpose in the most efficient ways.  Understanding these protocols will give your site direction, function, and ultimately success.  
+
+## Process & Design
+
+Design and visual appeal is important for your web page.  It can be the difference between a potential sale, job offer, or opportunity, and none of those!
+
+---
+
+### Who
+
+The first question you should ask is who is the site for? Will it be targeted at individuals? Companies? Are there certain age groups or income levels the site might be appropriate for?  
+
+---
+
+### Why
+
+The next question you need to answer is 'why'?  Are your websites viewers going tobe purchasing a product from your site?  
+
+Possibilites to consider include:
+
+1. Pure Entertainment
+2. Educational
+3. Essential Purchases
+4. Luxury Purchases
+
+---
+
+### Vital Information
+
+Once you've established why the user is visiting your site, it becomes easier to pinpoint what information that user will need.
+
+Sometimes, in the case of a purchase, not much information could be needed. Possibly as little as the name, price, and size of the product.  On the other hand, a user researching a topic for a science report might wish to see pages worth of info set out in a comprehendable manner. 
+
+--- 
+
+### How Often?
+
+Understaning visitor frequency to your site will help understand how to maintain the site.  If your site hosts local movie viewings or the nights MLB scores, it will need to be updated frequently.  Compare that to a site which talks about the Civil War.  That history shouldn't change much in the forseeable future, and this shouldn't require updates as often.    
+
+
+---
