@@ -4,32 +4,32 @@ When your house was built, the builders likely had a plan or blue print of how t
 
 Web Design is the same!  There are tools and processes to help us tailor make each site for it's purpose in the most efficient ways.  Understanding these protocols will give your site direction, function, and ultimately success.  
 
-## Process & Design
+## **Process & Design**
 
 Design and visual appeal is important for your web page.  It can be the difference between a potential sale, job offer, or opportunity, and none of those!
 
 ---
 
-### Who
+### **Who**
 
 The first question you should ask is who is the site for? Will it be targeted at individuals? Companies? Are there certain age groups or income levels the site might be appropriate for?  
 
 ---
 
-### Why
+### **Why**
 
 The next question you need to answer is 'why'?  Are your websites viewers going tobe purchasing a product from your site?  
 
 Possibilites to consider include:
 
-1. Pure Entertainment
-2. Educational
-3. Essential Purchases
-4. Luxury Purchases
+1. *Pure Entertainment*
+2. *Educational*
+3. *Essential Purchases*
+4. *Luxury Purchases*
 
 ---
 
-### Vital Information
+### **Vital Information**
 
 Once you've established why the user is visiting your site, it becomes easier to pinpoint what information that user will need.
 
@@ -37,14 +37,14 @@ Sometimes, in the case of a purchase, not much information could be needed. Poss
 
 --- 
 
-### How Often?
+### **How Often?**
 
 Understaning visitor frequency to your site will help understand how to maintain the site.  If your site hosts local movie viewings or the nights MLB scores, it will need to be updated frequently.  Compare that to a site which talks about the Civil War.  That history shouldn't change much in the forseeable future, and this shouldn't require updates as often.    
 
 
 ---
 
-### Tools
+### **Tools**
 
 With the previous information in hand, we can utilize the following tools and methods to continue our sites structuring.
 
@@ -56,3 +56,25 @@ Site maps help us organize our page into sections or pages.  A site map looks li
 
 Wireframes are a visual respresentaion of how the page will look.  Think of it like a model house.  They can be made with just a pencil and paper, or using a software program on your computer.
 
+--- 
+
+## **Structure**
+
+HTML gives webpages structure.  HTML uses 'tags' which are like rooms in the house analogy.  They tell the page what paragraphs go inside what sections, which headers belong to which paragraphs, and the like.  
+
+Some common tags are:
+
+< p >| Paragraph
+< body > | Body
+---
+
+## HTML5 Layout
+
+
+---
+
+## Extra Markup
+
+~QP3
+
+[Home](README.md)
