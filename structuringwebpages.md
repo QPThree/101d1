@@ -64,16 +64,38 @@ HTML gives webpages structure.  HTML uses 'tags' which are like rooms in the hou
 
 Some common tags are:
 
-< p >| Paragraph
-< body > | Body
+< head > | Head 
+
+< p >  | Paragraph
+
+< body >  | Body
+
+< h1 >  | 1st Level Header
+
+< a >  |  Link
+
+< img >  | Image
+
 ---
 
 ## HTML5 Layout
 
+HTML 5 added new tags that can be used to structure your web pages.  While previous version of HTML utilized the '< div >' tag with id's, HTML5  has added layout elements such as the ones listed below.
+
+< page >
+
+< aside >
+
+< article >
+
+< header >
+
+< footer >
+
+Some old browsers may have issues with the new HTML5 tags.  CSS can be used to tell the browser which new tags are being used, and how to treat those tags in the rendering of the display.
+
 
 ---
-
-## Extra Markup
 
 ~QP3
 

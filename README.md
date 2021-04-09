@@ -20,3 +20,5 @@ This site will act as a one stop shop for my reading notes from CF 102.  The pur
 [Coder's Computer](coderscomputer.md)
 
 [Revisions and the Cloud](revisionsandthecloud.md)
+
+[Structuring Web Pages](structuringwebpages.md)
