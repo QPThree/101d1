@@ -4,6 +4,8 @@ When your house was built, the builders likely had a plan or blue print of how t
 
 Web Design is the same!  There are tools and processes to help us tailor make each site for it's purpose in the most efficient ways.  Understanding these protocols will give your site direction, function, and ultimately success.  
 
+![Blueprint](https://images.unsplash.com/photo-1503387837-b154d5074bd2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80)
+
 ## **Process & Design**
 
 Design and visual appeal is important for your web page.  It can be the difference between a potential sale, job offer, or opportunity, and none of those!
@@ -64,7 +66,7 @@ HTML gives webpages structure.  HTML uses 'tags' which are like rooms in the hou
 
 Some common tags are:
 
-< head > | Head 
+< head > | Head
 
 < p >  |   Paragraph
 
