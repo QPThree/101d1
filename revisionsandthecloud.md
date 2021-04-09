@@ -18,7 +18,7 @@ Git works by having a main repository, or location, for your program.  This is t
 ## Wax on, Wax off, Wax on...
 
 ### A C P 
-THe git workflow is represented by the acronym "ACP".  Add, Commit, Push.  
+The git workflow is represented by the acronym "ACP".  Add, Commit, Push.  
 
 ![Workflow](https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png)
 
