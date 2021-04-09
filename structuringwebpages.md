@@ -66,11 +66,11 @@ Some common tags are:
 
 < head > | Head 
 
-< p >  | Paragraph
+< p >  |   Paragraph
 
 < body >  | Body
 
-< h1 >  | 1st Level Header
+< h1 >  |   1st Level Header
 
 < a >  |  Link
 
