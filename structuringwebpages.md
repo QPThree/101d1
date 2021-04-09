@@ -43,3 +43,16 @@ Understaning visitor frequency to your site will help understand how to maintain
 
 
 ---
+
+### Tools
+
+With the previous information in hand, we can utilize the following tools and methods to continue our sites structuring.
+
+**Site Maps**
+
+Site maps help us organize our page into sections or pages.  A site map looks like a tree or flow chart, each card representing a page the user can view.
+
+**Wireframes**
+
+Wireframes are a visual respresentaion of how the page will look.  Think of it like a model house.  They can be made with just a pencil and paper, or using a software program on your computer.
+
