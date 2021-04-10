@@ -43,11 +43,18 @@ You will notice two main components that make up each declaration:
 
 In the example above, 'color' would be the property, and 'blue' would be the value.  
 
-# Property
-
-# Value
 
 ## Inheritance
+
+Humans inherit DNA and genes from their parents.  Similarly, children HTML elements will inherit properties given to their parent elements.
+
+An example would be giving the 'body' element the background color of 'yellow'.
+
+> body {background-color: yellow;}
+
+
+If there are paragraph elements within the body of the HTML page, they will inherit the backgroun color of yellow, unless otherwise specified!
+
 
 ### CS-Why!?
 
