@@ -9,6 +9,8 @@ Your web page will gain personality and flair with appropriate CSS.  Consider th
 
 We will discuss the different components of a CSS document and how they can be utilized to help us development professional grade web pages.
 
+![CSS Laptop](https://images.unsplash.com/photo-1508739826987-b79cd8b7da12?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1566&q=80)
+
 ---
 
 # Selectors
@@ -22,6 +24,8 @@ Selectors identify which HTML elements you are manipulating.  In CSS the selecto
 > body
 
 With CSS, you can tell the web page to move all 'h1' elements to the left of the page.  Or color the entire body red.  Get creative, let your art style flow!
+
+![Basic CSS](https://images.unsplash.com/photo-1524666643752-b381eb00effb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80)
 
 # Declaration
 
