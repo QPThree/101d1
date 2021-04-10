@@ -58,4 +58,16 @@ If there are paragraph elements within the body of the HTML page, they will inhe
 
 ### CS-Why!?
 
-Why use external style sheets...
+CSS is often advantageous to be placed in a separate file.  This way, multiple HTML files can be styled with a single CSS stylesheet.  This saves time and makes your project organized and modular. 
+
+Your stylesheet can be linked with the link element in your HTML page.
+
+> < link >
+
+## Closing Thoughts
+
+CSS is a massive area of knowledge and skill.  Don't feel like you need to know every property or value available.  It is a skill you could very well be learning the rest of your career.  
+
+We have only touched the surface of CSS but it is a vital tool to get comfortable with on your journey of web development.  
+
+~ QP3
