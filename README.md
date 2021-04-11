@@ -24,3 +24,5 @@ This site will act as a one stop shop for my reading notes from CF 102.  The pur
 [Structuring Web Pages](structuringwebpages.md)
 
 [Introducing: CSS](introducingcss.md)
+
+[Javascript Starter Code](javascriptstarter.md)
