@@ -12,7 +12,9 @@
 
 ---
 
-<a name="computer"></a>## What Makes This Machine a Computer?
+<a name="computer"></a> 
+
+## What Makes This Machine a Computer?
 
 Computers are a tool to help us solve problems.  Much like a hammer is a tool to help us build physical items.  Or a shovel is a tool to help us dig a hole.  Computers just help us solve problems that these other tools can't.
 
@@ -27,7 +29,9 @@ The real power of computer comes when you string these processes together.  A st
 
 ---
 
-<a name="binary"></a>## Binary Number System
+<a name="binary"></a>
+
+## Binary Number System
 
 Unlike our often used 'decimal' system, which has digits from 0 to 9, the binary system has only two digits: 0 and 1.  In the decimal system, each position is a multiple of 10 from the lower position.  For example, the 1's 10's and 100's position.  10 is 10 x 1, 100 is 10 x 10, and so on. 
 
@@ -39,7 +43,9 @@ Each wire is a single *bit* of data.  Fortunatlely for those of us wrapping our 
 
 ---
 
-<a name="circuits"></a>## Circuits and Logic
+<a name="circuits"></a>
+
+## Circuits and Logic
 
 Circuits take in bit or bits of data, and return bit or bits of data!  The perform what we call 'logic' to determine their output.  Lets look at an example.
 
@@ -49,7 +55,9 @@ Strung together, these circuits and logic allow us to create some very powerful 
 
 ---
 
-<a name="hardware"></a>## Hardware and Software
+<a name="hardware"></a>
+
+## Hardware and Software
 
 Hardware and software work symbiotically in our computers.  Entire careers are dedicated to studying and working with just hardware, or just software.  We will give a brief overview here of each.  
 
