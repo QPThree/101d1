@@ -1,6 +1,6 @@
 ### Computer's 101
 
-## In this Page
+## In this Article
 
 [What Makes Computer](#computer)
 
@@ -10,7 +10,7 @@
 
 [Hardware and Software](#hardware)
 
-
+---
 
 <a name="computer"></a>## What Makes This Machine a Computer?
 
