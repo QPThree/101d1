@@ -12,7 +12,7 @@ Javscript allows us to add functionality to our previously structured (with HTML
 
 [Think programmatically](#think)
 
-[Functinos](#functions)
+[Functions](#functions)
 
 
 <a name="scripts"></a>
