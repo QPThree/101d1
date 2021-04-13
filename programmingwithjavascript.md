@@ -4,6 +4,19 @@ Javscript allows us to add functionality to our previously structured (with HTML
 
 **Scripts** in Javascript follow our written instructions.  They will do exactly, and only, as we say.  We will look at how these instructions are written, what makes them up, and it what ways they can be done.  
 
+## In This Article:
+
+[Scripts](#scripts)
+
+[Vocab](#vocab)
+
+[Think programmatically](#think)
+
+[Functinos](#functions)
+
+
+<a name="scripts"></a>
+
 ## What and How of Scripts
 
 No, this isn't your high school musical script.  JS (Javascript) scripts are series of instructions.  Think of them as handbooks, recipes, or manuals for humans.  Script can be read from top to bottom, by the computer, or referenced for a portion of the script.  Its useful to declare the blueprint of our script. Before writing it, we will:
@@ -12,12 +25,17 @@ No, this isn't your high school musical script.  JS (Javascript) scripts are ser
 2. Design the Script - Set an outline of needed variables and steps in our script
 3. Code Each Step - Write the steps in a progamming language, in this case JS
 
+
+<a name="vocab"></a>
+
 ## Vocabulary and Syntax
 
 Just like the English language, progamming languages must abide by vocabulary and syntax rules.
 
 * **Vocabulary** - Words the computer understands
 * **Syntax** - Rules for how those words and symbols can be used together
+
+<a name ="think"></a>
 
 ## Think Programmatically
 
@@ -46,6 +64,7 @@ Operators are used (and essential) in expressions.  You have already seen operat
 * **arithmetic**
 > +, -, *
 
+<a name="functions></a>
 
 ## Functions
 
@@ -59,13 +78,10 @@ In the example above, our function name would be 'sayGoPats'.
 
 Inside the curly brackets we can put the instructions we would like our function to perform.  In this case it will print "Go Pats" to our document.
 
-> function sayGoPats(){
->   document.write("Go Pats");
-> }
 
 Now that our function is declared, we can call the function anywhere in our program, with a simple line as follows:
 
-> sayGoPats();
+![Calling GoPats()](images/callingfunction.png)
 
 We can call this function once, ten times, or a hundred times.  
 
