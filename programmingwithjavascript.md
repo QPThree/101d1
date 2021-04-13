@@ -57,3 +57,17 @@ Functions are first declared with the keyword 'function' followed by the name of
 
 In the example above, our function name would be 'sayGoPats'.
 
+Inside the curly brackets we can put the instructions we would like our function to perform.  In this case it will print "Go Pats" to our document.
+
+> function sayGoPats(){
+>   document.write("Go Pats");
+> }
+
+Now that our function is declared, we can call the function anywhere in our program, with a simple line as follows:
+
+> sayGoPats();
+
+We can call this function once, ten times, or a hundred times.  
+
+
+~ QP3
