@@ -51,9 +51,9 @@ Operators are used (and essential) in expressions.  You have already seen operat
 
 Functions let you group a series of statements toget to be performed to complete a specific task.  Making a function saves time as each time you need that function (and everything it does) you only need to call the function with a few characters.  The alternative would be to write out potentially dozens of lines of code *each* and *every* time you want those instructions to run.
 
-Functions are first declared with the keyword 'function' followed by the name of the function you'd like to creat.
+Functions are first declared with the keyword 'function' followed by the name of the function you'd like to create.
 
-> function sayGoPats(){}
+![Functions Go Pats](images/functiongopats.png)
 
 In the example above, our function name would be 'sayGoPats'.
 
