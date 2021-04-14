@@ -39,4 +39,5 @@ The keyword in a for loop is none other than *for*. In a for loop, we use an ini
 A while loop simple has a condition and is run until that condition evaluates to True.  The keyword *while* is used to use a *while* loop.  The condition will be followed by opening and closing curly braces.  The lines within the braces will be run until the initial condition is evaluated False.  At that time, the loop will exit and the code will continue on.  
 
 
+
 ~QP3
