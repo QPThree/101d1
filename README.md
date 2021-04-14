@@ -30,3 +30,5 @@ This site will act as a one stop shop for my reading notes from CF 102.  The pur
 [Computer Architecture](computerarchitecture.md)
 
 [Programming with Javascript](programmingwithjavascript.md)
+
+[Hula Loops](loops.md)
