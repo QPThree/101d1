@@ -1,4 +1,4 @@
-# For and While Loops
+# Hula Loops
 
 Before discussing our loops, we must understand **evaluating conditions** and **logical operators**.
 
