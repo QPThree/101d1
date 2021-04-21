@@ -13,6 +13,16 @@ This site will act as a one stop shop for my reading notes from CF 102.  The pur
 
 ## Q's Notes
 
+
+### 201 Notes
+
+[Note 1](note1.md)
+
+[Note 2](note2.md)
+
+[Note 3](note3.md)
+
+### 102 Notes
 [Growth Mindset](growthmindset.md)
 
 [Learning Markdown](learningmarkdown.md)
