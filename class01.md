@@ -1,5 +1,20 @@
 # Class01 Reading Notes
 
+## In This Article:
+
+[Structure](#structure)
+
+[Extra Markup](#markup)
+
+[HTML5 Layout](#layout)
+
+[Process & Design](#design)
+
+[ABC's of Programming](#abcs)
+
+---
+
+<a name="structure"></a>
 
 ## Structure
 
@@ -8,6 +23,9 @@ Your house has *structure*.  The car you drive has *structure*.  You research pa
 ![HTML Structure](./images/htmlstructure.png)
 
 As you can see in the code snippet above, even our code has structure.  It's the structure to the structure of the webpage!  Get used to it.  Structure gives us organization, flow, readability, and so much more.  Structure is the foundation to everything else we hope to accomplish with our project. 
+
+---
+<a name="markup"></a>
 
 ## Extra Markup
 
@@ -29,11 +47,16 @@ Comments purposes are self descriptive.  With comments, the developer can leave 
 
 Anything inside the comment will not be rendered by the browser.  The comment will only exist in the code for the authors to read.  
 
+---
+<a name="layout"></a>
+
 ## HTML5 Layout
 
 HTML5, the most recent iteration of HTML, introduces new sets of elements to help structure the web page.   The elements replace the previously conventional way of writing HTML by using "div id" elements.  The new elements are mostly self descriptive.  They include header, footer, nav (navigation), and article elements.  
 
 Becoming familiar witht he newest version of HTML, or any language, is imperative in being a successful developer.  Like doctors or lawyers, software developers and engineers will continually have new protocol, practices, and syntaxes to stay up to date with.  Tech is a rapidly developing field.  Anyone who refuses to adapt or stick in their way of thinking will be deservingly left behind.  
+
+<a name="design"></a>
 
 ## Process & Design
 
@@ -55,10 +78,42 @@ Going back to our afformentioned examples, a user looking for information on a r
 
 This is an imporant question to ask when considering upkeep costs of your site.  If users are going to your site daily to check for new information on a rapidly changing topic, your site will require higher upkeep costs.  Much less so with a site who's visitors may come once a month or year. 
 
+---
+<a name="abcs"></a> 
+
 ## ABC's of Programming
 
+With Javascript developers can add functionality and interaction to their web pages.  If HTML is the structure & foundation, CSS the paint & decorating, then Javascript is the lighting, plumbing, and electrical.  
+
+### What is a 'Script'?
+
+Ease up Romeo, this isn't your Juliet kind of script.  Human's use recipes, manuals, or handbooks in order to accomplish certain tasks.  In Javscript, we use **scripts** to tell the computer our instructions to complete a task.  Luckily, computer's are compliant and obey our tasking.  
+
+When coming up with a script you should first define a clear goal of the script.  It should be specific and clear.  
+
+Once a goal is established you can begin designing your script.  This doesn't have to be a bug-proofed javascript file.  You can simply write down a wireframe or blueprint of the steps in your script. 
+
+Finally, code each step of your script and stick with it!  With persistance and attention to detail your script will be up and running in no time.  
 
 
+### Computer's and the World Around Them
+
+Like it or not, anything in the 'real' physical world can be represented by data.  With computers we can use collected data to develop models of the world around us.  These models may represent our hotel and tell us how many rooms are available.  Other models might use physical characteristics and traits of a baseball player in order to tell the Oakland Athletics who to draft to their team.  
+
+
+In computer programming, **objects** are used to represent physical *things*. **Properties**, in programming, represent *characteristics* about those **objects**.  **Functions** and **methods** represent *actions* that those objects can take.  While considerably overwhelming at first, these terms and usages will make sense in due time. 
+
+
+### Writing a Script
+
+We can write scripts both imbedded within our HTML file, or in a separate Javascript file.  These separate files have a .js file extension and are linked within our HTML page.
+
+![Script Example](./images/scriptexample.png)
+
+
+The linked script in the example above will be referenced by the HTML page as needed. A portion of the rendering page may call a function within the javascript file.  Because it is linked in our HTML file, that function can be accessed.  Think of it like keeping a cook book in your kitchen that you can reference when you want a specific recipe.  
+
+Nothing like home scripting! I mean,...cooking!
 
 ~ QP3
 
