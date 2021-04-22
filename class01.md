@@ -11,10 +11,27 @@ As you can see in the code snippet above, even our code has structure.  It's the
 
 ## Extra Markup
 
+### Evolution of HTML
+
+Since the first web page there have been several versions of HTML.  Each new version was able to implement new code.  Web browsers, such as Google Chrome, must be updated in order to keep up with the new versions of HTML they are rendering.  Because not all browsers are updated at the same pace, and overlapping HTML iterations, it is important to distinguish 'DOCTYPE' in our code.
+
+### Doctypes
+
+Doctype is a declaration that tells the browser which version of HTML the page utilizes.  The doctype is declared at the top of your HTML code. 
+
+![Doctype](./images/doctype.png)
+
+### Comments
+
+Comments purposes are self descriptive.  With comments, the developer can leave helpful notes for themselves or future developers working on the code.  
+
+![Comments](./images/comments.png)
+
+Anything inside the comment will not be rendered by the browser.  The comment will only exist in the code for the authors to read.  
 
 ## HTML5 Layout
 
-
+HTML5, the most recent iteration of HTML, introduces new sets of elements to help structure the web page.   The elements replace the previously conventional way of writing HTML by using "div id" elements.  The new elements are mostly self descriptive.  They include header, footer, nav (navigation), and article elements.  
 
 ## Process & Design
 
