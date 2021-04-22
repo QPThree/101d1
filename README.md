@@ -16,7 +16,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 ### 201 Notes
 
-[Note 1](note1.md)
+[Class 01](htmlstructure.md)
 
 [Note 2](note2.md)
 
