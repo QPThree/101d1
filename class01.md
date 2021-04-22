@@ -18,11 +18,11 @@
 
 ## Structure
 
-Your house has *structure*.  The car you drive has *structure*.  You research papers in high school, **this class**, all have *structure*.  A website page is no different.  The pages you visit all have structure.  HTML (Hyper Text Markup Language) is the tool we use to give web pages their structure.  We use headings, paragraphs, bold texts, and other techniques to give the foundation to our pages.  We can use 'tags' to distinguish parts of the webpage, such as the body, header, or footer.  We even use an html tag to structure the entire HTML page! 
+Your house has *structure*.  The car you drive has *structure*.  Your research papers in high school, **this class**, all have *structure*.  A website is no different.  The pages you visit all have structure.  HTML (Hyper Text Markup Language) is the tool we use to give web pages their structure.  We use headings, paragraphs, bold texts, and other techniques to give foundation and order to our pages.  We can use 'tags' to distinguish parts of the webpage, such as the body, header, or footer.  We even use an html tag to structure the entire HTML page! 
 
 ![HTML Structure](./images/htmlstructure.png)
 
-As you can see in the code snippet above, even our code has structure.  It's the structure to the structure of the webpage!  Get used to it.  Structure gives us organization, flow, readability, and so much more.  Structure is the foundation to everything else we hope to accomplish with our project. 
+As you can see in the code snippet above, even our code has structure.  We use indentation and spacing to organize the code and make it more readable.  It's the HTML structure to the structure of the webpage!  Get used to it.  Structure gives us organization, flow, readability, and so much more. 
 
 ---
 <a name="markup"></a>
@@ -31,7 +31,7 @@ As you can see in the code snippet above, even our code has structure.  It's the
 
 ### Evolution of HTML
 
-Since the first web page there have been several versions of HTML.  Each new version was able to implement new code.  Web browsers, such as Google Chrome, must be updated in order to keep up with the new versions of HTML they are rendering.  Because not all browsers are updated at the same pace, and overlapping HTML iterations, it is important to distinguish 'DOCTYPE' in our code.
+There have been several versions of HTML since the first web pages graced the internet.  Each new version came equipped to handle new features and implement new code.  Web browsers, such as Google Chrome, must be updated in order to keep up with the new versions of HTML they are rendering.  Because not all browsers are updated at the same pace it is important to distinguish 'DOCTYPE' in our code.
 
 ### Doctypes
 
@@ -41,11 +41,11 @@ Doctype is a declaration that tells the browser which version of HTML the page u
 
 ### Comments
 
-Comments purposes are self descriptive.  With comments, the developer can leave helpful notes for themselves or future developers working on the code.  
+The purposes of comments are fairly self descriptive.  With comments, the developer can leave helpful notes for themselves or future developers working on the code.  
 
 ![Comments](./images/comments.png)
 
-Anything inside the comment will not be rendered by the browser.  The comment will only exist in the code for the authors to read.  
+Anything inside the comment will not be rendered by the browser.  The comment will only exist in the code for the authors to read.  Comments can help by being a reference or reminder to the developer while their noses are buried in the code.
 
 ---
 <a name="layout"></a>
@@ -68,11 +68,11 @@ Is the target audience a company?  Men or women of a specific age?  Maybe your t
 
 * Why Are They Visiting Your Website?
 
-Will the user be purchasing a good from your site?  Maybe they are looking for information on a topic?  How you answer these questions for your specific site will determine what and how you choose to layout your pages. 
+Will the user be purchasing goods from your site?  Maybe they are looking for information on a certain topic?  How you answer these questions for your specific site will determine what and how you choose to layout your pages. 
 
 * What Information Does Your Visitor Need?
 
-Going back to our afformentioned examples, a user looking for information on a research topic may be looking for paragraphs of information.  Potentially these paragraphs are laid out in some kind of ordering or sectioning.  On the other hand, a user looking to purchase a bracelet from your site will require *far* less amount of information.  However, they may require very specific information. Possibly bracelet sizes, colorings, photos, and pricing.  
+Going back to our afformentioned examples, a user looking for information on a research topic may be looking for paragraphs of information.  Potentially these paragraphs are laid out in some kind of ordering or sectioning.  On the other hand, a user looking to purchase a bracelet from your site will require *far* less amount of information.  However, they still may require very specific information such as bracelet sizes, colorings, photos, and pricing.  
 
 * How Often Will Your Site Be Visited?
 
@@ -87,19 +87,18 @@ With Javascript developers can add functionality and interaction to their web pa
 
 ### What is a 'Script'?
 
-Ease up Romeo, this isn't your Juliet kind of script.  Human's use recipes, manuals, or handbooks in order to accomplish certain tasks.  In Javscript, we use **scripts** to tell the computer our instructions to complete a task.  Luckily, computer's are compliant and obey our tasking.  
+Ease up Romeo, this isn't quite your Juliet kind of script.  Human's use recipes, manuals, or handbooks in order to accomplish certain tasks.  In Javascript, we use **scripts** to tell the computer our instructions to complete a task.  Luckily, computer's are compliant and obey our tasking.  Unluckily, computers do poor with vague instructions.  For a successful script, our coded instructions need to be thorough.  
 
 When coming up with a script you should first define a clear goal of the script.  It should be specific and clear.  
 
-Once a goal is established you can begin designing your script.  This doesn't have to be a bug-proofed javascript file.  You can simply write down a wireframe or blueprint of the steps in your script. 
+Once a goal is established you can begin designing your script.  This doesn't have to be a bug-proofed javascript file quite yet.  You can simply write down a wireframe or blueprint of the steps in your script.  Give yourself or your team an outline of how the script will run, and what components it will have. 
 
 Finally, code each step of your script and stick with it!  With persistance and attention to detail your script will be up and running in no time.  
 
 
 ### Computer's and the World Around Them
 
-Like it or not, anything in the 'real' physical world can be represented by data.  With computers we can use collected data to develop models of the world around us.  These models may represent our hotel and tell us how many rooms are available.  Other models might use physical characteristics and traits of a baseball player in order to tell the Oakland Athletics who to draft to their team.  
-
+Like it or not, anything in the 'real' physical world can be represented by data.  With computers we can use collected data to develop models of the world around us.  These models may represent a hotel and tell us how many rooms are available on a given night.  Other models might use physical characteristics and traits of a baseball player in order to tell the Oakland Athletics who to draft to their team.  Possibilities are endless.  It what makes programming so exciting!  
 
 In computer programming, **objects** are used to represent physical *things*. **Properties**, in programming, represent *characteristics* about those **objects**.  **Functions** and **methods** represent *actions* that those objects can take.  While considerably overwhelming at first, these terms and usages will make sense in due time. 
 
@@ -111,9 +110,9 @@ We can write scripts both imbedded within our HTML file, or in a separate Javasc
 ![Script Example](./images/scriptexample.png)
 
 
-The linked script in the example above will be referenced by the HTML page as needed. A portion of the rendering page may call a function within the javascript file.  Because it is linked in our HTML file, that function can be accessed.  Think of it like keeping a cook book in your kitchen that you can reference when you want a specific recipe.  
+The linked script in the example above will be referenced by the HTML page as needed. A portion of the rendering page may call a function within the linked javascript file.  Because it is linked in our HTML file, that function can be accessed.  Think of it like keeping a cookbook in your kitchen that you can reference when you want a specific recipe.  Your cookbook wouldn't be very useful if you didn't know where it was!
 
-Nothing like home scripting! I mean,...cooking!
+Nothing like some home scripting! I mean...cooking!
 
 ~ QP3
 
