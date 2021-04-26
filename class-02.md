@@ -60,6 +60,39 @@ Import tip for now is to not worry or become overburdened with understanding exa
 ---
 <a name="javascript"></a>
 
+## Basic Javascript Instructions
+
+Just like the English language, progamming languages must abide by vocabulary and syntax rules.
+
+* **Vocabulary** - Words the computer understands
+* **Syntax** - Rules for how those words and symbols can be used together
+
+Combined with some building blocks we are about to go over and an understanding of javascripts vocabulary and syntax rules, we'll have the components necessary to read and write clean clode with javascript.  
+
+
+Javascript code, also known as scripts, can be thought of as a series of instructions, akin to the cookbooks you might use in your kitchen.  A basic instruction is known as a statement. 
+
+* **Statement** - An individual instrcution in our code
+
+> Tip: Always remember javascript is case sensitive.  "CAT" will not be read the same as "cat".
+
+Comments in javascript are used similar to comments in an HTML file.  In javascript, they can be used to clarify code, or tell developers what a functions purpose is. Comment lines begin with double-forward slashes.
+
+![Comments & Variables](./images/jscomments.png)
+
+**Date Types** are an important concept in javascript. Just like you couldn't have a math equation that added oranges to the number 6, javascript can only do certian things with certain data types. 
+
+![Data Types](./images/datatypes.png)
+
+Notice how each data type in the example above is being declared and stored by a variable!  Variables can be changed to store different values, hence the term *variable*.
+
+If you want to be a developer or work with code, get close with the term **array**.  Arrays are special variables that can hold multiple values.  They are an incredibly powerful tool in javascript.
+
+![Array](./images/array.png)
+
+Values in arrays are indexed and accessed on a numerical system.  A key point to know is the index starts with '0', and counts up for each item in the array.  
+
+![Indexing](./images/arrindex.png)
 ---
 <a name="loops"></a>
 
