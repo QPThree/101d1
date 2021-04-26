@@ -31,7 +31,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Revisions and the Cloud](./102/revisionsandthecloud.md)
 
-[Structuring Web Pages](structuringwebpages.md)
+[Structuring Web Pages](./102/structuringwebpages.md)
 
 [Introducing: CSS](./102/introducingcss.md)
 
@@ -39,6 +39,6 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Computer Architecture](./102/computerarchitecture.md)
 
-[Programming with Javascript](programmingwithjavascript.md)
+[Programming with Javascript](./102/programmingwithjavascript.md)
 
 [Hula Loops](loops.md)
