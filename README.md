@@ -27,7 +27,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Learning Markdown](learningmarkdown.md)
 
-[Coder's Computer](coderscomputer.md)
+[Coder's Computer](./102/coderscomputer.md)
 
 [Revisions and the Cloud](revisionsandthecloud.md)
 
@@ -35,7 +35,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Introducing: CSS](introducingcss.md)
 
-[Javascript Starter Code](javascriptstarter.md)
+[Javascript Starter Code](./102/javascriptstarter.md)
 
 [Computer Architecture](computerarchitecture.md)
 
