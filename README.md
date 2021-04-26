@@ -23,7 +23,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 [Note 3](note3.md)
 
 ### 102 Notes
-[Growth Mindset](growthmindset.md)
+[Growth Mindset](./102/growthmindset.md)
 
 [Learning Markdown](learningmarkdown.md)
 
@@ -33,11 +33,11 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Structuring Web Pages](structuringwebpages.md)
 
-[Introducing: CSS](introducingcss.md)
+[Introducing: CSS](./102/introducingcss.md)
 
 [Javascript Starter Code](./102/javascriptstarter.md)
 
-[Computer Architecture](computerarchitecture.md)
+[Computer Architecture](./102/computerarchitecture.md)
 
 [Programming with Javascript](programmingwithjavascript.md)
 
