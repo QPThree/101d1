@@ -4,15 +4,14 @@
 
 [Text in HTML](#text)
 
-[Semantic Markup](#markup)
-
 [CSS](#css)
 
-[How of CSS](#design)
+[JavaSlipt..I mean Script](#javascript)
 
-[Breaking Down CSS Further](#cssfurther)
+[Hula Loops](#loops)
 
 ---
+<a name="text"></a>
 
 ## Text in HTML
 
@@ -22,6 +21,8 @@ Tags, known as *markup*, are used to display text on your created webpage.  Tags
 
 Different text tags give *life* and *structure* to your webpage!  Use them creatively and they can be simple way to spruce up your text.  
 
+<a name="markup"></a>
+
 ### Semantic Markup
 
 Certain text elements are used without the intention of affeting the overall structure of the webpage.  Their purpose, in addition to displaying text on the rendered page, is to add additional information to the page.  This information can then be used by screen reading or search engine programs.  
@@ -29,6 +30,7 @@ Certain text elements are used without the intention of affeting the overall str
 Examples of semantic markup include the **blockquote** tag, the **cite** tag, or an **address** tag.
 
 ---
+<a name="css"></a>
 
 ## Introducing CSS
 
@@ -56,9 +58,10 @@ The second selector we see is the **p** selector.  The **p** elements in the HTM
 Import tip for now is to not worry or become overburdened with understanding exactly how your computer knows what "red" means or what a "font-family" is.  Know and trust that your computer and web browser understand what to do with these phrases.  You can change font styles, colors, placement, and can even add borders and adjust positions on the page, all with CSS. Enjoy your time exploring the possiblities!
 
 ---
-
+<a name="javascript"></a>
 
 ---
+<a name="loops"></a>
 
 ## Hula Loops
 
