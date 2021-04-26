@@ -18,7 +18,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Class 01](class01.md)
 
-[Note 2](note2.md)
+[Class 02](class02.md)
 
 [Note 3](note3.md)
 
