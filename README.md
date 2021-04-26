@@ -41,4 +41,4 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Programming with Javascript](./102/programmingwithjavascript.md)
 
-[Hula Loops](loops.md)
+[Hula Loops](./102/loops.md)
