@@ -25,11 +25,11 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 ### 102 Notes
 [Growth Mindset](./102/growthmindset.md)
 
-[Learning Markdown](learningmarkdown.md)
+[Learning Markdown](./102/learningmarkdown.md)
 
 [Coder's Computer](./102/coderscomputer.md)
 
-[Revisions and the Cloud](revisionsandthecloud.md)
+[Revisions and the Cloud](./102/revisionsandthecloud.md)
 
 [Structuring Web Pages](structuringwebpages.md)
 
