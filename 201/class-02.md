@@ -21,7 +21,6 @@ Tags, known as *markup*, are used to display text on your created webpage.  Tags
 
 Different text tags give *life* and *structure* to your webpage!  Use them creatively and they can be simple way to spruce up your text.  
 
-<a name="markup"></a>
 
 ### Semantic Markup
 
@@ -93,6 +92,7 @@ If you want to be a developer or work with code, get close with the term **array
 Values in arrays are indexed and accessed on a numerical system.  A key point to know is the index starts with '0', and counts up for each item in the array.  
 
 ![Indexing](../images/arrindex.png)
+
 ---
 <a name="loops"></a>
 
@@ -143,8 +143,6 @@ A while loop simple has a condition and is run until that condition evaluates to
 ![While Loop](../images/whileloop.png)
 
 The lines within the braces will be run until the initial condition is evaluated False.  At that time, the loop will exit and the code will continue on.  
-
-
 
 ~ QP3
 
