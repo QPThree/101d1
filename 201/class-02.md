@@ -126,7 +126,7 @@ In an *or* logical operator, either condition can evaluate to True and the logic
 
 ## Loops
 
-Loops check a condition. If the condition evaluates to True, then the loop will continue to cycle.  If and when the condition evaluate to False, the loop is exited and the code can continue.
+Loops check a condition. If the condition evaluates to True, then the loop will continue to cycle.  If and when the condition evaluates to False, the loop is exited and the code can continue.
 
 ### For Loop
 
