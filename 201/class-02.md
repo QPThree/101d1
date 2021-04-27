@@ -138,7 +138,7 @@ Each iteration of the loop we can tell the code to add 1 to 'i'.  We can tell it
 
 ### While... Loop
 
-A while loop simple has a condition and is run until that condition evaluates to True.  The keyword *while* is used to use a *while* loop.  The condition will be followed by opening and closing curly braces.  
+A while loop simply has a condition and is run until that condition evaluates to False.  The keyword *while* is used to use a *while* loop.  The condition will be followed by opening and closing curly braces.  
 
 ![While Loop](../images/whileloop.png)
 
