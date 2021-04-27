@@ -100,7 +100,7 @@ Values in arrays are indexed and accessed on a numerical system.  A key point to
 
 Before discussing our loops, we must understand **evaluating conditions** and **logical operators**.
 
-Conditions will always result to either **True** or **False**.  In other words, of type **Boolean**. To do these evaluations, we use the following syntex, among others.
+Conditions will always result to either **True** or **False**.  In other words, of type **Boolean**. To do these evaluations, we use the following syntax, among others.
 
 > == (Equal to)
 
