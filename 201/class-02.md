@@ -35,7 +35,7 @@ Examples of semantic markup include the **blockquote** tag, the **cite** tag, or
 
 ### Cascading Style Sheets
 
-Another name for CSS could be Color Style and Shaping!  It's not though, so don't get confused.  That's just the gist of what CSS allows developers to do.  CSS can take an otherwise black and white webpage of text and turn it into a colorful, visually appealing web app.  
+Another name for CSS could be Color Style and Shaping!  It's not though, so don't get confused.  That's just the gist of what CSS allows developers to do.  CSS can take an otherwise black and white webpage of text and turn it into a colorful, visually appealing webpage.  
 
 ### How of CSS
 
@@ -54,7 +54,7 @@ In the css snippet above, we have 2 selectors.  Both getting their own set of ru
 
 The second selector we see is the **p** selector.  The **p** elements in the HTML file this CSS applies to will receive a background color of "red", as indicated by the property / value pair inside the **p** selectors curly braces.  While this may seem simple, it illustrates the power of CSS.  CSS allows us to declare differenty styling for different elements in our page.  The possibilities are endless!
 
-Import tip for now is to not worry or become overburdened with understanding exactly how your computer knows what "red" means or what a "font-family" is.  Know and trust that your computer and web browser understand what to do with these phrases.  You can change font styles, colors, placement, and can even add borders and adjust positions on the page, all with CSS. Enjoy your time exploring the possiblities!
+Important tip for now is to not worry or become overburdened with understanding exactly how your computer knows what "red" means or what a "font-family" is.  Know and trust that your computer and web browser understand what to do with these phrases.  You can change font styles, colors, placement, and can even add borders and adjust positions on the page, all with CSS. Enjoy your time exploring the possiblities!
 
 ---
 <a name="javascript"></a>
@@ -71,7 +71,7 @@ Combined with some building blocks we are about to go over and an understanding 
 
 Javascript code, also known as scripts, can be thought of as a series of instructions, akin to the cookbooks you might use in your kitchen.  A basic instruction is known as a statement. 
 
-* **Statement** - An individual instrcution in our code
+* **Statement** - An individual instruction in our code
 
 > Tip: Always remember javascript is case sensitive.  "CAT" will not be read the same as "cat".
 
