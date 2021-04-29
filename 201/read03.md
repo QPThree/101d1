@@ -24,4 +24,10 @@
 
 
 <a name="topic3"></a>
+
 ## Decisions and Loops
+
+
+~ QP3
+
+[Home](../README.md)
