@@ -16,11 +16,11 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 ### 201 Notes
 
-[Class 01](./201/class01.md)
+[Read 01](./201/class01.md)
 
-[Class 02](./201/class-02.md)
+[Read 02](./201/class-02.md)
 
-[Note 3](note3.md)
+[Read 03](./201/read03.md)
 
 ### 102 Notes
 [Growth Mindset](./102/growthmindset.md)
