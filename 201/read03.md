@@ -2,11 +2,11 @@
 
 ## In this Article
 
-[Topic 1](#topic1)
+[Lists](#topic1)
 
-[Topic 2](#topic2)
+[Boxes](#topic2)
 
-[Topic 3](#topic3)
+[Decisions & Loops](#topic3)
 
 [Topic 4](#topic4)
 
@@ -35,7 +35,7 @@ CSS treats HTML elements as if they are their own boxes.  Knowing that, we can u
 
 These measurements can be written in CSS in multiple units.  Our examples will be in px (pixels).  Othe units to try and experiment with are percentages, or em, which is a size relative to the font size of the element.
 
-### Height Width 
+### Height Width
 
 ![Height Width](../images/heightwidth.png)
 
@@ -71,6 +71,25 @@ Every value in javascript can be evaluated as **truthy** or **falsy**.  While tr
 
 ![Truthy Falsy](../images/truthyfalsy.png)
 
+### Loops
+
+Loops check a condition. If the condition evaluates to True, then the loop will continue to cycle.  If and when the condition evaluate to False, the loop is exited and the code can continue.
+
+**For Loop**
+
+The keyword in a for loop is none other than *for*. In a for loop, we use an initialized variable, often 'i', to determine how many times the loop will run.  We then give a condition involving our variable 'i' to be evaluated.  When it returns False, the loop is exited.  
+
+![For Loop](../images/forloop.png)
+
+Each iteration of the loop we can tell the code to add 1 to 'i'.  We can tell it to do any process to 'i', but incrementing it by 1 is the most common.  We call this *updating* the variable. 
+
+**While Loop**
+
+A while loop simple has a condition and is run until that condition evaluates to True.  The keyword *while* is used to use a *while* loop.  The condition will be followed by opening and closing curly braces.  
+
+![While Loop](../images/whileloop.png)
+
+The lines within the braces will be run until the initial condition is evaluated False.  At that time, the loop will exit and the code will continue on.  
 ~ QP3
 
 [Home](../README.md)
