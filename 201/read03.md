@@ -8,15 +8,13 @@
 
 [Decisions & Loops](#topic3)
 
-[Topic 4](#topic4)
-
 ---
 
 <a name="topic1"></a>
 
 ## Lists
 
-Lists can be useful in HTML for multiple reasons.  Lists are a clean, simple way to display certain information.  They can also add structure and variability to your web page.  
+Lists can be useful in HTML for multiple reasons.  Lists are a clean, simple way to display groups of information.  They can also add structure and variability to your web page.  
 
 There are three types of lists utilized in HTML:
 
@@ -26,12 +24,11 @@ There are three types of lists utilized in HTML:
 
 3. Definition Lists: Used to define terminology
 
-
 <a name="topic2"></a>
 
 ## Boxes
 
-CSS treats HTML elements as if they are their own boxes.  Knowing that, we can use CSS to manipulate the sizes, dimensions, borders, margin, and padding of those boxes.  
+CSS treats HTML elements as if they are their own boxes.  Knowing that, we can use CSS to manipulate the sizes, dimensions, borders, margin, and padding of those boxes.  This in turn can change our webpages layout and appearance.  
 
 These measurements can be written in CSS in multiple units.  Our examples will be in px (pixels).  Othe units to try and experiment with are percentages, or em, which is a size relative to the font size of the element.
 
@@ -57,7 +54,7 @@ If statements, loops, and the like are ways of controlling flow in our code.  Th
 
 ### Switch Statements
 
-**Switch** statements begin with the kewywod **switch** followed by a variable called the switch value.  Following this opening will be curly brackets.  Inside the brackets are **cases**. Each case represents a possible value for the initial variable in our opening.  If that variable matches on of the case values, then that case's code block is run.
+**Switch** statements begin with the keyword **switch** followed by a variable called the switch value.  Following this opening will be curly brackets.  Inside the brackets are **cases**. Each case represents a possible value for the initial variable in our opening.  If that variable matches on of the case values, then that case's code block is run.
 
 ![Switch Statements](../images/switch.png)
 
@@ -67,13 +64,13 @@ In the switch statement above, userName will be checked against each case.  Depe
 
 Every value in javascript can be evaluated as **truthy** or **falsy**.  While true and false can be confusing enough when we talk logical operators and statements, understanding truthy falsy is important. Truthy and falsy values are shown in our code below.
 
-> Note: These are not strictly equal to.  In otherwords, if you checked their values against true or false with double-equals (==) then these values would be correct. If you strictly checked them (===) then these values would not be correct.  
+> Note: These are not strictly equal to.  In otherwords, if you checked their values against true or false with double-equals (==) then these values would be correct. If you strictly checked them (===) then these examples would *not* be correct.  
 
 ![Truthy Falsy](../images/truthyfalsy.png)
 
 ### Loops
 
-Loops check a condition. If the condition evaluates to True, then the loop will continue to cycle.  If and when the condition evaluate to False, the loop is exited and the code can continue.
+Loops check a condition on each iteration. If the condition evaluates to True, then the loop will continue to cycle.  If and when the condition evaluate to False, the loop is exited and the code can continue outside the loop block.
 
 **For Loop**
 
@@ -89,7 +86,8 @@ A while loop simple has a condition and is run until that condition evaluates to
 
 ![While Loop](../images/whileloop.png)
 
-The lines within the braces will be run until the initial condition is evaluated False.  At that time, the loop will exit and the code will continue on.  
+The lines within the braces will be run until the initial condition is evaluated False.  At that time, the loop will exit and the code will continue on.
+
 ~ QP3
 
 [Home](../README.md)
