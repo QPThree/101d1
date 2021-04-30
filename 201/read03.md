@@ -2,7 +2,7 @@
 
 ## In this Article
 
-[Topic 2](#topic1)
+[Topic 1](#topic1)
 
 [Topic 2](#topic2)
 
