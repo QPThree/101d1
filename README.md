@@ -1,4 +1,4 @@
-# QPThree's CF 102 Reading Notes
+# Quentin P Young's Code Fellows Reading Notes (2021)
 
 
 This site will act as a one stop shop for my Code Fellows reading notes.  The purposes of this site includes:
@@ -13,7 +13,6 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 ## Q's Notes
 
-
 ### 201 Notes
 
 [Read 01](./201/class01.md)
@@ -22,7 +21,10 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 03](./201/read03.md)
 
+[Read 04](./201.read04.md)
+
 ### 102 Notes
+
 [Growth Mindset](./102/growthmindset.md)
 
 [Learning Markdown](./102/learningmarkdown.md)
