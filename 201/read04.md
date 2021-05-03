@@ -51,9 +51,31 @@ There are mutltiple ways to position elements on our page.
 
 ## Pair Programming
 
+**Pair programming** is a technique used in the industry to instantaneously get feedback, review, erroe checking, and more from our peers. A pair of programmers will commonly share a workspace to tackle a coding issue as a team.  In not only encourages community, teammwork, and communication, but also helps to improve your software skills.  All of which are goals of our learning.  
+
+1. Driver - Only one who has hands on the keyboard. 
+
+2. Navigator - Uses words to 'drive' the driver, but is not hands on with the computer.  Should not be writing code.
+
+Don't forget to tell your job interviewer that this is an 'agile' practice. These practices will also help developers at becoming confident in talking about code *out loud* which is important especially for junior developers.  
+
+Additional benefits of paired progamming incldue:
+
+* Greater Efficiency
+
+* Engaged Collaboration
+
+* Learning from Peers
+
+* Social Skills
+
+* Job Interview Readiness
+
+* Work Environment Readiness
 
 ~ QP3
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
+Information put into my own words came from *CSS & HTML* and *Javascript & JQuery* by J Duckett
+Additional information from *6 Reasons for Pair Programming* by Allie Grampa
