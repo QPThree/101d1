@@ -28,8 +28,19 @@ When linking to a page on the same site, you do not need to include the full URL
 
 ## Layouts
 
-HTML layout using CSS is useful for creating professional, appropriately organized web pages.  
+HTML layout using CSS is useful for creating professional, appropriately organized web pages.  We have talked about how CSS treats elements of HTML as if they are in boxes.  There are two display types: block-level elements, and inline elements.  Block level elements start a new line with each new block element.  In-line elements are placed within the flow of elements and content around them.  
 
+HTML elements essentially sit inside their own *container*.  If the parent container around them is manipulated, then everything inside that parent container will be manipulated as well.  We would have to specify more specifically the child containers if we wanted to move or rearrange them without distrubing other elements.  
+
+There are mutltiple ways to position elements on our page. 
+
+* **Relative Positioning** - *Moves content relative to where it would be in normal flow.  Does not affect surrounding element's positions*
+
+* **Absolute Positioning** - *Moves elements in relation to their containing elements.  Move as the user scrolls up and down the page*
+
+* **Fixed Positioning** - *Elements placed in relation to the window.  Do not move as the user scrolls up and down*
+
+* **Float** - *Content will wrap around floated elements. Floated elements become block level.*
 
 <a name="topic3"></a>
 
