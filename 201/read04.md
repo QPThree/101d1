@@ -52,13 +52,17 @@ The keyword *function* is used when declaring a function.  This is followed by t
 
 ![Function Info](../images/functioninfo.png)
 
+Functions can return values as output.  This returned value can be used in another function, printed, logged, or whatever the script calls for! 
+
+
+
 <a name="topic4"></a>
 
 ## Pair Programming
 
 **Pair programming** is a technique used in the industry to instantaneously get feedback, review, erroe checking, and more from our peers. A pair of programmers will commonly share a workspace to tackle a coding issue as a team.  In not only encourages community, teammwork, and communication, but also helps to improve your software skills.  All of which are goals of our learning.  
 
-1. Driver - Only one who has hands on the keyboard. 
+1. Driver - Only one who has hands on the keyboard.
 
 2. Navigator - Uses words to 'drive' the driver, but is not hands on with the computer.  Should not be writing code.
 
