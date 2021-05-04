@@ -6,7 +6,7 @@
 
 [Layouts](#topic2)
 
-[Functinos & Methods](#topic3)
+[Functions & Methods](#topic3)
 
 [Pair Programming](#topic4)
 
@@ -30,7 +30,7 @@ When linking to a page on the *same site*, you do not need to include the full U
 
 HTML layout using CSS is useful for creating professional, appropriately organized web pages.  We have talked about how CSS treats elements of HTML as if they are in boxes.  There are two display types: block-level elements, and inline elements.  Block level elements start a new line with each new block element.  In-line elements are placed within the flow of elements and content around them.  
 
-HTML elements essentially sit inside their own *container*.  If the parent container around them is manipulated, then everything inside that parent container will be manipulated as well.  We would have to specify more specifically the child containers if we wanted to move or rearrange them without distrubing other elements.  
+HTML elements essentially sit inside their own *container*.  If the parent container around them is manipulated, then everything inside that parent container will be manipulated as well.  We would have to specify more specifically the child containers if we wanted to move or rearrange them without disturbing other elements.  
 
 There are mutltiple ways to position elements on our page. 
 
@@ -68,7 +68,7 @@ Alternatively, a variable declared outside of a function has a **global** scope,
 
 ## Pair Programming
 
-**Pair programming** is a technique used in the industry to instantaneously get feedback, review, erroe checking, and more from our peers. A pair of programmers will commonly share a workspace to tackle a coding issue as a team.  In not only encourages community, teammwork, and communication, but also helps to improve your software skills.  All of which are goals of our learning.  
+**Pair programming** is a technique used in the industry to instantaneously get feedback, review, erroe checking, and more from our peers. A pair of programmers will commonly share a workspace to tackle a coding issue as a team.  In not only encourages community, teamwork, and communication, but also helps to improve your software skills.  All of which are goals of our learning.  
 
 1. Driver - Only one who has hands on the keyboard.
 
