@@ -46,6 +46,11 @@ There are mutltiple ways to position elements on our page.
 
 ## Functions
 
+Functions allow developers to group specific sets of instructions into a contained, reusable script of code.  Functions, once declared, can be called repeatedly and through a program at very little additional cost.  Once the function is written once, it takes a simple call statement to run again.  
+
+The keyword *function* is used when declaring a function.  This is followed by the *name* of the function.  Optionally, parenthesis can contain *parameters* to be used in the function, but these are not required.  If not used, the parentheses will be empty. Lastly, the curly brackets follow and are the block of code that the function actually runs.  
+
+![Function Info](../images/functioninfo.png)
 
 <a name="topic4"></a>
 
