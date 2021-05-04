@@ -52,9 +52,17 @@ The keyword *function* is used when declaring a function.  This is followed by t
 
 ![Function Info](../images/functioninfo.png)
 
-Functions can return values as output.  This returned value can be used in another function, printed, logged, or whatever the script calls for! 
+Functions can return values as output.  This returned value can be used in another function, printed, logged, or whatever the script calls for! We might want a function to calculate tax for us.  We would want the function to return the total cost of an item, after tax.  An example of that function, with a return statement, is below. 
 
+![Return Function](../images/returnfunction.png)
 
+### Variable Scope
+
+Lastly, we will talk about variable scope.  Where a variable is declared affects where that variable can be called upon. A variable declared inside of a function can only be called inside that specific variable.  The **scope** of it is local.
+
+Alternatively, a variable declared outside of a function has a **global** scope, and can be called and used inside of any function, in addition to the local variables that function may have.  
+
+![Variable Scope](../images/variablescope.png)
 
 <a name="topic4"></a>
 
