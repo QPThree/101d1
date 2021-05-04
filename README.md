@@ -21,7 +21,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 03](./201/read03.md)
 
-[Read 04](./201.read04.md)
+[Read 04](./201/read04.md)
 
 ### 102 Notes
 
