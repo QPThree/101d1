@@ -22,9 +22,9 @@ Links in HTML are inserted using the **< a >** element.  Between your opening an
 
 <a name="topic2"></a>
 
-Links can be used in lists, your navigation bar, or right in-line of your text.  
+Links can be used in lists, your navigation bar, or directly in-line of your text.  
 
-When linking to a page on the same site, you do not need to include the full URL in the href.  Instead, you can use the relative URL.  Depending on how your files are organized, this may look different.  For example, if all of your files are in the same folder, then your relative URL will simply be the name of the file/page you are linking to.  If moving to parent or child folders, your relative URL must include that information.  Moving to parent or grandparent folders is done with two periods followed by a forward slash.  Moving in the other direction to child folders is done by simply naming the folder and following it with a forward slash.  
+When linking to a page on the *same site*, you do not need to include the full URL in the href.  Instead, you can use the **relative URL**.  Depending on how your files are organized, this URL path may look different.  For example, if all of your files are in the same folder, then your relative URL will simply be the name of the file/page you are linking to.  If moving to up to parent or down child folders, your relative URL must include that information.  Moving to parent or grandparent folders is done with two periods followed by a forward slash.  Moving in the other direction to child folders is done by simply naming the folder and following it with a forward slash.  
 
 ## Layouts
 
@@ -52,7 +52,7 @@ The keyword *function* is used when declaring a function.  This is followed by t
 
 ![Function Info](../images/functioninfo.png)
 
-Functions can return values as output.  This returned value can be used in another function, printed, logged, or whatever the script calls for! We might want a function to calculate tax for us.  We would want the function to return the total cost of an item, after tax.  An example of that function, with a return statement, is below. 
+Functions can return values as output.  This returned value can be used in another function, printed, logged, or whatever the script calls for! We might want a function to calculate tax for us.  We would want the function to return the total cost of an item after tax.  An example of that function, with a return statement, is below.
 
 ![Return Function](../images/returnfunction.png)
 
