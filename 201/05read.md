@@ -41,7 +41,18 @@ The **src** attribute tells the relative URL to the file location.  The **alt** 
 
 ## Color
 
+The right color can make a bedroom a warm, comfortable place to be.  It can also make it a eye-torture room.  The same holds true for our webpages!  We can use CSS to asign any kind of color and color-scheme for our pages.  We give color to via color valuse in our CSS. 
 
+* *RGB Values* - Values for red green and blue, each between 0 and 255.
+
+* *HEX Codes* - Hexadecimal code can be used for the same RGB values
+
+* *Color Name* - A limited amount of colors can be given by their name
+
+
+**Contrast** and **opacity** values can also be given to our elements and colors. High contrast makes text easier to see against it's background. If reading for long periods of time, however, a lower contrast will be easier on the eyes.  Below is an example of our CSS passing some of these discussed properties to elements of a webpage. 
+
+![Color Examples](../images/colorexamples.png)
 
 <a name="topic3"></a>
 
