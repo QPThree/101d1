@@ -21,15 +21,15 @@ When adding images to a project, it's best to have an "images" subfolder in the 
 
 ### Adding Images with IMG Tag
 
-Images are added with the < img > element.  The < img > element is an empty element, meaning it has no closing tag. Attributes about the image sit inside the tag.  The **src** and **alt** attibutes are a must, at a minimum. 
+Images are added with the < img > element.  The < img > element is an empty element, meaning it has no closing tag. Attributes about the image sit inside the tag.  The **src** and **alt** attibutes are a must, at a minimum.
 
-An example of an image tag is below.  Notice how we are using the src and alt attributes. 
+An example of an image tag is below.  Notice how we are using the src and alt attributes.
 
 ![Image Tag](../images/imgtag.png)
 
 The **src** attribute tells the relative URL to the file location.  The **alt** attribute gives a brief description of the image. Should the file not be displayed properly, the description would show in it's place.
 
-### 3 Ruls for Creating Images
+### 3 Rules for Creating Images
 
 1. Save as correct format (PNG, JPEG, GIF)
 
@@ -96,4 +96,4 @@ Choosing the correct format can also help page performance.  Formats and compres
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
+Information put into my own words came from *HTML & CSS* by J Duckett and *JPEG vs PNG vs GIF* by Rahul Nanwani
