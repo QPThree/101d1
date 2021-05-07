@@ -37,6 +37,8 @@ The **src** attribute tells the relative URL to the file location.  The **alt** 
 
 3. Save image at correct resolution.  Resolution can affect load times and the web pages performance. 
 
+---
+
 <a name="topic2"></a>
 
 ## Color
@@ -54,15 +56,41 @@ The right color can make a bedroom a warm, comfortable place to be.  It can also
 
 ![Color Examples](../images/colorexamples.png)
 
+---
+
 <a name="topic3"></a>
 
 ## Text
 
+Text can be styled in different ways, similar to how your word processor allows you to change font styles. We can change font styles, font families, font sizes, bold fonts, and italicize fonts.
+
+Additional font styling techniques include underlining font, strikethrough font, aligning font to the left center or right.
+
+### Pseudo Classes
+
+Three pseudo exist.  The **Pseudo** classes are are hover, active, and focus.
+
+* :hover - Styles applied when user hovers over the element
+
+* :active - Styles applied when element is being activated
+
+* :focus - Styles applied when an element has focus.  Any element that is interacted with can have focus. 
+
+---
 
 <a name="topic4"></a>
 
 ## JPEG PNG GIF
 
+Images can come in varying file types. Depending on the use of the image, different formats will be better or worse to use.  
+
+* **JPEG** - Best for use with natural scenery or photography with variations in color
+
+* **PNG** - Photos that need transparancy or objects with sharp edges
+
+* **GIF** - Format for images that contain animations
+
+Choosing the correct format can also help page performance.  Formats and compression of a file can affect the image size.  For example, a PNG file does not lose any data during compression. As a result, a PNG file would be of higher quality but also take up more disk space.  These are the tradeoffs we must take into consideration when choosing file types!
 
 ~ QP3
 
