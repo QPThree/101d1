@@ -9,6 +9,7 @@
 [Text](#topic3)
 
 [JPEG PNG GIF](#topic4)
+
 ---
 
 <a name="topic1"></a>
