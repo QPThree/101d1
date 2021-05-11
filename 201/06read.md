@@ -46,11 +46,23 @@ Objects use **key** / **value** pairs.  In our example above *name*, *position*,
 
 <a name="topic3"></a>
 
-## Topic 3
+## Document Object Model
+
+When an HTML page is loaded, your browser creates a model of the page in memory.  This model is made up of objects (hence the name *document object model*). The objects allow the page to be manipulated and changed after it is loaded, and how those effects should be displayed to the user. 
+
+The **DOM Tree** is model of the webpage.  Nodes on the tree respresent the web page and each element on the page.  We can access these elements through the initial node, the **document** node. Through this node each element and content of those elements is accessible.  We can manipualate any element on the page by :
+
+1. Locating the node that respresents our element
+
+2. Work with the elements to change its content, text, or attribute values
+
+Below is an example of how to use javascript to access an element, and change it's text.
+
+![DOM textContent](../images/domexample.png)
 
 
 ~ QP3
 
 [Home](../README.md)
 
-Information put into my own words came from *Javascript & JQuery* by J Duckett and *Understanding the Problem Domain Is The Hardest Part of Programming* by John Sonmez. 
+Information put into my own words came from *Javascript & JQuery* by J Duckett and *Understanding the Problem Domain Is The Hardest Part of Programming* by John Sonmez.
