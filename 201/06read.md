@@ -6,7 +6,7 @@
 
 [Object Literal](#topic2)
 
-[Topic 3](#topic3)
+[DOM](#topic3)
 
 ---
 
@@ -26,7 +26,7 @@ The author recommends two solutions when dealing with difficult problem domains.
 
 The problem can be made easier by breaking down the larger problem into smaller problems.  Deal with a single chunk of a problem and slowly build.  I would compare this to first finding your corner pieces in your jigsaw puzzle.  Start from the corners and build out. 
 
-2. Get bett at understanding the problem domain
+2. Get better at understanding the problem domain
 
 The second proposed solution is to get better at solving the problem domain (duh). It's not always that simple, and I imagine experience helps a lot here.  Take time to talk through the problem with your peers, the customer, or even on your own terms.  Taking the extra step to really understand the situation can pay serious dividends here.  Identify your problem, plan out your rhythmic attack, and execute.  
 
