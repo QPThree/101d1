@@ -18,7 +18,9 @@
 
 Objects can be created using *constructore functions*.  These functions can have properties and methods "attached" to them. When an object is made using the constructor, arguments are passed which specify that specific objects values for it's respective properties.
 
+![Constructor Function](../images/constructorfunction.png)
 
+Our constructor functino above is BaseballPlayer.  When called, we can pass arguments to the function and assign this to a variable named of our choosing. This variable is now our object with properties set to our passed in argument values.  
 <a name="topic2"></a>
 
 ## Tables
