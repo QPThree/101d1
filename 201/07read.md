@@ -1,4 +1,4 @@
-# Oobject Oriented Programming & HTML Tables
+# Object Oriented Programming & HTML Tables
 
 ## In this Article
 
@@ -20,7 +20,7 @@ Objects can be created using *constructor functions*.  These functions can have 
 
 ![Constructor Function](../images/constructorfunction.png)
 
-Our constructor functino above is BaseballPlayer.  When called, we can pass arguments to the function and assign this to a variable named of our choosing. This variable is now our object with properties set to our passed in argument values.
+Our constructor function above is *BaseballPlayer*.  When called, we can pass arguments to the function and assign this to a variable named of our choosing. This variable is now our object with properties set to our passed in argument values.
 
 ---
  
@@ -42,9 +42,9 @@ Our tables can be styled with borders and backgrounds, similar to other elements
 
 We've learned how we can create an object in javascript, and how we can call methods or properties from that object using the dot notation.
 
-Javascript also has onjects that are built-in to the language.  These objects are essentially free tools we can use in our code.  We access the methods of these objects just like we would access are own made objects.  
+Javascript also has objects that are built-in to the language.  These objects are essentially pre-wired tools we can use in our code.  We access the methods of these objects just like we would access our own made objects.  
 
-Examples of javascript built in objects are **Math** **String** **Data** and **Number**. Below is an example of a Math method we could use in a given context.
+Examples of javascript built in objects are **Math**, **String**, **Data**, and **Number**. Below is an example of a Math method we could use in a given context.
 
 ![Math.sqrt](../images/mathsqrt.png)
 
