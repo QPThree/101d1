@@ -20,12 +20,21 @@ Objects can be created using *constructore functions*.  These functions can have
 
 ![Constructor Function](../images/constructorfunction.png)
 
-Our constructor functino above is BaseballPlayer.  When called, we can pass arguments to the function and assign this to a variable named of our choosing. This variable is now our object with properties set to our passed in argument values.  
+Our constructor functino above is BaseballPlayer.  When called, we can pass arguments to the function and assign this to a variable named of our choosing. This variable is now our object with properties set to our passed in argument values. 
+
+---
+ 
 <a name="topic2"></a>
 
 ## Tables
 
+Whether your local newspaper, crypto-currency app, or HTML page, tables are effective ways to portray data.  
 
+Tables in HTMl are declared witht he < table > element.  Headers and cells can be identified by your document with the < th > and < td > respectively.  These headers and cells will sit inside of our < td > element, which represents a single row of our table.
+
+Our tables can be styled with borders and backgrounds, similar to other elements in our documents.
+
+---
 
 <a name="topic3"></a>
 
