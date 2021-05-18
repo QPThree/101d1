@@ -37,6 +37,9 @@ Screens sizes and resolution will be a topic of concern if you plan to develop w
 
 ## Grid Layout
 
+CSS **frameworks** are tools used to help us with our CSS.  THe 960 grid system framework helps by creating a "grid" for our HTML page.  The grid is used to place items where we want them.  It also allows us to easily adjust how wide box should be.  The system uses class names on our HTML elements to apply CSS rules to them.  For example, a class of "grid_3" is a class that stretches the element across three columns of the grid. 
+
+Grids also make it easy to set consistent proportions and relative sizes in our page.  The main content might take up two-thirds of the width of the page, leaving the last third available for our aside.  This not only looks pleasing but is easy to organize and build with the grid system.
 
 ~ QP3
 
