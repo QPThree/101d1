@@ -6,7 +6,7 @@
 
 [Screen Sizes](#topic2)
 
-[Topic 3](#topic3)
+[Grid Layouts and Frameworks](#topic3)
 
 ---
 
@@ -21,6 +21,8 @@ Block elements can sit inside one another.  The outer, or parent, element is sai
 **Positioning** can be changed using CSS as well.  When we talk about **normal flow** of the page, we are reffering to how the page would be displayed "normally" without CSS manipulation. **Absolute** positioning takes elements out of normal flow and positions them in relation to their containing element. **Floating** can be used to have text or content wrap around a certain element.  An example would be to float a photo left or right so that the text of the page can wrap around the photo and be read in a logical manner. 
 <a name="topic2"></a>
 
+---
+
 ## Screen Sizes
 
 Screens sizes and resolution will be a topic of concern if you plan to develop web pages.  The web is now viewed on mobile devices, laptops, tablets, and desktop computers. Because of these varying screen sizes, web designers will try to create pages that are 960-1000 pixels wide. Most screens will be able to display this size, and it sets a standard. 
@@ -34,6 +36,8 @@ Screens sizes and resolution will be a topic of concern if you plan to develop w
 **Fluid Layouts** change size with the browser.  As a user makes the window larger or smaller, so too goes your webpage.  Care needs to be taken by the developer, however, as the widths of sections can become too large and distort the page!
 
 <a name="topic3"></a>
+
+---
 
 ## Grid Layout
 
