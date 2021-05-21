@@ -78,4 +78,4 @@ Some, but not all, types of events include:
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
+Information put into my own words came from *HTML & CSS* and *Javascript & JQuery* by J Duckett
