@@ -68,6 +68,10 @@ Some, but not all, types of events include:
 
 ![Event Listener](../images/eventlistener.png)
 
+### Bubbling vs. Capturing
+
+**Bubbling** is when the flow of event travels in a more specific to less specific direction.  This would be traveling from say a specific list element link, outward all the way to the Document.  **Capturing** would be having the event travel in the reverse direction i.e. starting with the document and travling to the specific link inside your list element.
+
 ---
 
 ~ QP3
