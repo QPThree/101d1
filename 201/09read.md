@@ -60,6 +60,12 @@ Some, but not all, types of events include:
 
 * dbclick - User presses and releases the mouse button twice over an element
 
+### Event Listeners
+
+**Event Listeners** are a common, recent technique to access events using our javascript.  The anatomy of an event listener is below.
+
+![Event Listener](../images/eventlistener.png)
+
 ~ QP3
 
 [Home](../README.md)
