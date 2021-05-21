@@ -46,6 +46,8 @@ Tables can be styled as well. Table sizes, empty cell styling, letter spacing, f
 
 <a name="topic3"></a>
 
+---
+
 ## Events
 
 **Events** in the context of web development includes actions such as clicking on a link, hovering over an image, or typing on the keyboard.  We can write our javascript to run certain code, and even manipulate the DOM, when a given event occurs.
@@ -65,6 +67,8 @@ Some, but not all, types of events include:
 **Event Listeners** are a common, recent technique to access events using our javascript.  The anatomy of an event listener is below.
 
 ![Event Listener](../images/eventlistener.png)
+
+---
 
 ~ QP3
 
