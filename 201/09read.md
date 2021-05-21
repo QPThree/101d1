@@ -32,7 +32,7 @@ The data is sent to the server usign name/value pairs.
 
 ### Form Structure
 
-Form controls live inside of a form element. Action attributes are attached to each form element that hold a URL for the page on the server that receives the user inputted data upon submission. 
+Form controls live inside of a form element. Action attributes are attached to each form element that hold a URL for the page on the server that receives the user inputted data upon submission.
 
 ---
 
@@ -40,11 +40,14 @@ Form controls live inside of a form element. Action attributes are attached to e
 
 ## Lists & Tables
 
+Lists can be styled so the bullet-points flow with the webpage. Ordered lists can be styled so that the list items are labeld with numbers, roman numerals, or letters.
 
+Tables can be styled as well. Table sizes, empty cell styling, letter spacing, font styles, background colors, and text transformation can all be customized with CSS. 
 
 <a name="topic3"></a>
 
 ## Events
+
 
 
 ~ QP3
