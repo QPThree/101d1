@@ -48,7 +48,17 @@ Tables can be styled as well. Table sizes, empty cell styling, letter spacing, f
 
 ## Events
 
+**Events** in the context of web development includes actions such as clicking on a link, hovering over an image, or typing on the keyboard.  We can write our javascript to run certain code, and even manipulate the DOM, when a given event occurs.
 
+Some, but not all, types of events include:
+
+* scroll - User scrolls up or down on page
+
+* keypress - character is being inserted with keyboard
+
+* click - User presses and releases the mouse button over an element
+
+* dbclick - User presses and releases the mouse button twice over an element
 
 ~ QP3
 
