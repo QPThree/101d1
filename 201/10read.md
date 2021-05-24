@@ -18,6 +18,9 @@ Where there's code, there are errors.  This article will look at common errors, 
 
 Our code an scripts can be 'asynchronous'. And because of this, they are not always interpreted and run from top to bottom.  The **order** in which our code is run can help in determinning and correcting errors.  For example, 'function A' may be called, but might call 'function B' within it's script.  The interpreter will put function A on hold, essentially, until function B is executed.  Function B might return a value needed by function A.  Once the interpreter returns to function A, it now has the value returned from function B and can continue with the script of function A.
 
+You may have noticed how a variable can be assigned the value of a function, even before the function has been declared.  This is because variables and functions are **hoisted** by the interpreter on it's first pass through the code.  Then, once the code has run, the function assigned to a variable has context, because it has been prepared by being **hoisted**.
+
+---
 
 <a name="topic2"></a>
 
