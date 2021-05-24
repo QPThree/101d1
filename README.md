@@ -33,6 +33,8 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 09](./201/09read.md)
 
+[Read 10](./201/10read.md)
+
 ### 102 Notes
 
 [Growth Mindset](./102/growthmindset.md)
