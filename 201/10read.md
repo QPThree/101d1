@@ -6,7 +6,7 @@ Where there's code, there are errors.  This article will look at common errors, 
 
 [Order of Execution](#topic1)
 
-[Topic 2](#topic2)
+[Console and Dev Tools](#topic2)
 
 [Topic 3](#topic3)
 
@@ -24,9 +24,11 @@ You may have noticed how a variable can be assigned the value of a function, eve
 
 <a name="topic2"></a>
 
-## Topic 2
+## Console and Dev Tools
 
+The Javascript **console** is a developer tool that comes built in to our Chrome browser. The console will tell us if and where errors are found.  With this information, we can rapidly pin-point our error source and get to correcting the issue.
 
+To access the console, we need to go right click on our web-page and select "inspect".  A pane will open on the right hand side of our screen where we can then choose "console".  We can have the console open as we render the page if we'd like (and it's helpful).
 
 <a name="topic3"></a>
 
