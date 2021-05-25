@@ -47,4 +47,4 @@ To access the console, we need to go right click on our web-page and select "ins
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
+Information put into my own words came from *Javascript * JQuery* by J Duckett
