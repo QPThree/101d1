@@ -8,7 +8,7 @@ Where there's code, there are errors.  This article will look at common errors, 
 
 [Console and Dev Tools](#topic2)
 
-[Topic 3](#topic3)
+[Handling Exceptions](#topic3)
 
 ---
 
@@ -32,7 +32,15 @@ To access the console, we need to go right click on our web-page and select "ins
 
 <a name="topic3"></a>
 
-## Topic 3
+## Handling Exceptions
+
+**Try**, **catch**, and **finally** is a technique used to handle errors in our code. 
+
+* *try* is the code we want to attempt to run.  We think it may give us an error, so we are literally *trying* it. 
+
+* *catch* our catch code runs if there is an error in our try code.  It's our backup just in case. It's one and only parameter is the *error object*.
+
+* *finally* - our finally block runs regardless of the try and catch results.
 
 
 ~ QP3
