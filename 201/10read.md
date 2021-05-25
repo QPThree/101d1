@@ -1,4 +1,4 @@
-# Erroe Handling and Debugging
+# Error Handling and Debugging
 
 Where there's code, there are errors.  This article will look at common errors, tools we can use to find these errors, and ways in which we can ultimately handle those errors!
 
@@ -47,4 +47,4 @@ To access the console, we need to go right click on our web-page and select "ins
 
 [Home](../README.md)
 
-Information put into my own words came from *Javascript * JQuery* by J Duckett
+Information put into my own words came from *Javascript & JQuery* by J Duckett
