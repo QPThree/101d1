@@ -6,7 +6,7 @@
 
 [Practical Information](#topic2)
 
-[Flash](#topic3)
+[Audio & Video Elements](#topic3)
 
 ---
 
@@ -41,11 +41,18 @@
 
 * In order to get your site accessible on the internet, you will need to get a domain name and web whositing service
 
+* There are many services that offer website template which you can then add your content to, saving you startup time and effort 
+
 
 <a name="topic3"></a>
 
-## Flash
+## Audio & Video Elements
 
+* Video and Audio elements allow us to embed sound and videos into our webpages
+
+* giving our video element the "controls" attribute allows the user to have acces to playback controls (i.e. its' important)
+
+* Javascript event listeners help us add media functionality programmatically
 
 ~ QP3
 
