@@ -25,11 +25,21 @@
 * Properties can also be used to control the positioning and repeat or stretch effects of the background image
 
 
-
 <a name="topic2"></a>
 
 ## Practical Information
 
+* Search Enginer Optimization is the idea of making your website appear when a user searches for a relevant topic on a search engine
+
+* On-page techniques consist of having text and words relevant to what might be searched
+
+* Off-page techniques consist of havaing other web pages linke to your page, which is a great way to increase your SEO
+
+* On-page SEO includes the page title, URL, headings, text, and page description
+
+* Tools such as google analytics can give you data on how many users are visiting your site, where they are visiting it from, what they are looking at on your site, and how long they are staying.
+
+* In order to get your site accessible on the internet, you will need to get a domain name and web whositing service
 
 
 <a name="topic3"></a>
