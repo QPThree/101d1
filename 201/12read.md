@@ -1,6 +1,6 @@
 # Main Head
 
-## In this Article
+## Chart.js
 
 [Chart.js Basics](#topic1)
 
