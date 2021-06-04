@@ -18,7 +18,7 @@ Microsoft introduced *DHTML Behaviors* which contained *userData*. userData allo
 
 In 2007, Google's Gears allowed unlimited amounts of data to be stored per domain via an embedded SQL Database.
 
-Unfortunately, each way of storing user data on webapps was different, with different allotments, on different browsers. 
+Unfortunately, each way of storing user data on webapps was different, with different allotments, on different browsers.
 
 <a name="topic2"></a>
 
@@ -28,11 +28,9 @@ HTML5 Storages is a way for webpages to store key/value pairs locally. The data 
 
 Keys are strings and have values that can be paired with them. One can access a value by calling the key in the localStorage as one would call an index in an array.
 
-The storage amont with HTML5 Storage is 5 megabytes.
+The storage amount with HTML5 Storage is 5 megabytes.
 
-An imporant note is that values are also stored as strings. As such, when accessing the values via their paired key, you'll need to coerce the string into your desired datatype (e.g. parseInt()).
-
-
+An important note is that values are also stored as strings. As such, when accessing the values via their paired key, you'll need to coerce the string into your desired datatype (e.g. parseInt()).
 
 ~ QP3
 
