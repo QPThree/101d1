@@ -4,7 +4,7 @@
 
 [Brief History](#topic1)
 
-[Topic 2](#topic2)
+[HTML5 Storage](#topic2)
 
 [Topic 3](#topic3)
 
@@ -24,7 +24,9 @@ Unfortunately, each way of storing user data on webapps was different, with diff
 
 <a name="topic2"></a>
 
-## Topic 2
+## HTML5 Storage
+
+HTML5 Storages is a way for webpages to store key/value pairs locally. The data then persists after the user has navigated away from the page or application. The latest version of virtually every browser is HTML5 storage compatible.
 
 
 
