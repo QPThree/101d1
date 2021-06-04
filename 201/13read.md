@@ -28,7 +28,7 @@ Unfortunately, each way of storing user data on webapps was different, with diff
 
 HTML5 Storages is a way for webpages to store key/value pairs locally. The data then persists after the user has navigated away from the page or application. The latest version of virtually every browser is HTML5 storage compatible.
 
-
+Keys are strings and have values that can be paired with them. One can access a value by calling the key in the localStorage as one would call an index in an array.
 
 <a name="topic3"></a>
 
