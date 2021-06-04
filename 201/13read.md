@@ -6,8 +6,6 @@
 
 [HTML5 Storage](#topic2)
 
-[Topic 3](#topic3)
-
 ---
 
 <a name="topic1"></a>
@@ -33,9 +31,7 @@ Keys are strings and have values that can be paired with them. One can access a 
 The storage amont with HTML5 Storage is 5 megabytes.
 
 An imporant note is that values are also stored as strings. As such, when accessing the values via their paired key, you'll need to coerce the string into your desired datatype (e.g. parseInt()).
-<a name="topic3"></a>
 
-## Topic 3
 
 
 ~ QP3
