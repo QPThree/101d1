@@ -4,9 +4,9 @@
 
 [Transforms](#topic1)
 
-[Topic 2](#topic2)
+[Transitions](#topic2)
 
-[Topic 3](#topic3)
+[Animations](#topic3)
 
 ---
 
