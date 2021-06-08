@@ -43,6 +43,8 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 14a](./201/14aread.md)
 
+[Read 14b](./201/14bread.md)
+
 ### 102 Notes
 
 [Growth Mindset](./102/growthmindset.md)
