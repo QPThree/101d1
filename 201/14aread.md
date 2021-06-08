@@ -37,7 +37,7 @@ The *transition-property* property can be used to declare what exact properties 
 
 ## Animations
 
-Animations pick up where transitions leave off. 
+Animations pick up where transitions leave off.  They give extra customization options and allow you to declare how many times a transition should run. Animations can fortunately be written in short-hand notation, for example we can couple all values together to look something like "animation: slide 2s ease-in-out .5s infinite alternate;"
 
 
 ~ QP3
