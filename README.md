@@ -13,7 +13,9 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 ## Q's Notes
 
-### 201 Notes
+### 301 - Intermediate Software Development
+
+### 201 - Foundations of Software Development
 
 [Read 01](./201/class01.md)
 
@@ -45,7 +47,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 14b](./201/14bread.md)
 
-### 102 Notes
+### 102 - Into to Software Development
 
 [Growth Mindset](./102/growthmindset.md)
 
