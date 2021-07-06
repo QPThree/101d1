@@ -18,12 +18,39 @@ The objective of Component Architecture is to allow components to be reusable.  
 
 ### What is a component?
 
-A component is a single unit of functional code and interface. It can be deploayed independantly, or with other components to fill out a full-fleshed application.
+A component is a single unit of functional code and interface. A component for example could be the header of a web page with nav bar and animation. It can be deploayed independantly, or with other components to fill out a full-fleshed application.
 
 ### What are the charactistics of a component?
 
+* Reusability - Components are desgined for reuse. 
+
+* Replaceable - Components may be substituted with other components of similar applicability
+
+* Not context specific - Components designed for different contexts and environments
+
+* Extensible - Components can be extended from existing components
+
+* Encapsulated - A component does not expose internal processes or variables or states. 
+
+* Independant - Components are designed to have minimal dependancies
 
 ### What are the advantages of using component based architecture?
+
+* Ease of Deployment
+
+* Reduced Cost
+
+* Ease of Development
+
+* Reusable
+
+* Modification of technical complexity
+
+* Reliability
+
+* System Maintenance and Evolution
+
+* Independent
 
 <a name="topic2"></a>
 
