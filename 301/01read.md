@@ -6,6 +6,7 @@
 
 [Props](#topic2)
 
+[Thins I Want to Know More About](#topic3)
 
 ---
 
@@ -73,8 +74,11 @@ To pass a prop, the data first needs to be contained inside an attribute. It can
 
 Props flow in a uni-directional way.  Meaning from parent-to-child component.
 
+<a name="topic1"></a>
+
+## Thins I Want To Know More About
 ~ QP3
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
+Information put into my own words came from *https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm* and *https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child*
