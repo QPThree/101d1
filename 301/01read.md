@@ -6,7 +6,6 @@
 
 [Props](#topic2)
 
-[Topic 3](#topic3)
 
 ---
 
@@ -56,17 +55,23 @@ A component is a single unit of functional code and interface. A component for e
 
 ## Props
 
+*Props* are how components within a react application communicate with one another.  They might need to communicate for functionality and feature purposes.
+
 ### What is props short for?
+
+*Props* is short for *properties*
 
 ### How are props used in React?
 
+To pass a prop, the data first needs to be contained inside an attribute. It can then be passed to on or more child components by using props. Once passed, the data can then be rendered. 
+
+*Props* are arguments passed into React components.
+
+*Props* is a special keyword in React.
 
 ### What is the flow of props?
 
-<a name="topic3"></a>
-
-## Topic 3
-
+Props flow in a uni-directional way.  Meaning from parent-to-child component.
 
 ~ QP3
 
