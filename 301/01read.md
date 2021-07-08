@@ -6,7 +6,7 @@
 
 [Props](#topic2)
 
-[Thins I Want to Know More About](#topic3)
+[Things I Want to Know More About](#topic3)
 
 ---
 
@@ -74,7 +74,7 @@ To pass a prop, the data first needs to be contained inside an attribute. It can
 
 Props flow in a uni-directional way.  Meaning from parent-to-child component.
 
-<a name="topic1"></a>
+<a name="topic3"></a>
 
 ## Things I Want To Know More About
 
