@@ -76,7 +76,11 @@ Props flow in a uni-directional way.  Meaning from parent-to-child component.
 
 <a name="topic1"></a>
 
-## Thins I Want To Know More About
+## Things I Want To Know More About
+
+* What is "babel"?
+
+
 ~ QP3
 
 [Home](../README.md)
