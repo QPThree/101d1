@@ -14,13 +14,13 @@
 
 ## React Lifecycle
 
-1.
+1. The 'Render' happens first
 
-2.
+2. The constructor is called before the component is mounted.
 
-3.
+3. Constructor, render, componentDidMount, React Updates, componentWillUnmount
 
-4.
+4. *componentDidMount* is a method invoked right after a comoponent is mounted. It can be used to make any calls to functions you want to run once the component is in place (e.g. setting state or network requests)
 
 
 <a name="topic2"></a>
