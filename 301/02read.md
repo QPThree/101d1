@@ -4,9 +4,13 @@
 
 [React Lifecycle](#topic1)
 
-[Topic 2](#topic2)
+[State vs Props](#topic2)
 
 [Topic 3](#topic3)
+
+[Things I Want to Know More About](#topic4)
+
+
 
 ---
 
@@ -25,14 +29,24 @@
 
 <a name="topic2"></a>
 
-## Topic 2
+## React State vs. Props
 
+1. Props are meant for static information. Things like *title*, *description*, or *src* values. 
 
+2. Props are static, where as state is meant to be fluid and change.
+
+3. We re-render our application anytime a prop or state is changed.
+
+4. State can be used to store dynamic values.  Examples might be a counter, a score, or a position. 
 
 <a name="topic3"></a>
 
 ## Topic 3
 
+
+<a name="topic4"></a>
+
+## Things I Want to Know More About
 
 ~ QP3
 
