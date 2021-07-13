@@ -6,11 +6,7 @@
 
 [State vs Props](#topic2)
 
-[Topic 3](#topic3)
-
-[Things I Want to Know More About](#topic4)
-
-
+[Things I Want to Know More About](#topic3)
 
 ---
 
@@ -41,12 +37,11 @@
 
 <a name="topic3"></a>
 
-## Topic 3
-
-
-<a name="topic4"></a>
-
 ## Things I Want to Know More About
+
+* Where does our logic live within a react app? Does it belong to the component? Or in the app.js file?
+
+* I want to read more about event handling and how that works with changes in state.
 
 ~ QP3
 
