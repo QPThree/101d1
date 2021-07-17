@@ -63,9 +63,20 @@ A quick syntax method that can perform various actions on or with arrays.
 ## How to Pass Functions Between Components
 
 1. In the video, what is the first step that the developer does to pass functions between components?
+
+> answer: They create a function on the level the state exists that sets the state.
+
 2. In your own words, what does the increment function do?
+
+> The function increase the count value of an object in the app.js state.  The object to update is determined by the name that is passed to the function. If it matches an objects 'name', then that objects count is incremented.
+
 3. How can you pass a method from a parent component into a child component?
+
+Just like you would any other prop.  Once the method is passed to a child, the child component can use it like any of the other methods. 
 4. How does the child component invoke a method that was passed to it from a parent component?
+
+The child component, for example, could have a function called 'increment' that calls the prop passed into it. You can simply call the prop, 'this.prop.increment()' inside of the child's own 'increment' function. The prop would be the function passed into the child, from the parent. And that part is key.  The child cannot see or access that function unless it is passed into it. 
+
 ~ QP3
 
 [Home](../README.md)
