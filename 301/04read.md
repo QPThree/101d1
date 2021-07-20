@@ -4,7 +4,7 @@
 
 [Reat Forms](#topic1)
 
-[Topic 2](#topic2)
+[Ternary Operator](#topic2)
 
 [Topic 3](#topic3)
 
@@ -28,9 +28,15 @@ With the *onChange = {this.handlechange}* inside of the component's form element
 
 <a name="topic2"></a>
 
-## Topic 2
+## Ternary Operators
 
+1. Why would we use a ternary operator?
 
+Ternary operators are a much cleaner, simpler way of writing if..else statements. The cleaner syntex means higher readability and less room for mistakes.
+
+2. Rewrite the following statement using a ternary statement:
+
+![Ternary Example](../images/ternaryexample.png)
 
 <a name="topic3"></a>
 
