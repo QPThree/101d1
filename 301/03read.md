@@ -81,4 +81,3 @@ The child component, for example, could have a function called 'increment' that 
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
