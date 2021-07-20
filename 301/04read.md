@@ -1,8 +1,8 @@
-# Main Head
+# Controlled Components & Ternary Operators
 
 ## In this Article
 
-[Reat Forms](#topic1)
+[React Forms](#topic1)
 
 [Ternary Operator](#topic2)
 
@@ -44,9 +44,7 @@ Ternary operators are a much cleaner, simpler way of writing if..else statements
 
 1. What is the *.bind* function?
 
-
 ~ QP3
 
 [Home](../README.md)
 
-Information put into my own words came from *Book Title* by J Duckett
