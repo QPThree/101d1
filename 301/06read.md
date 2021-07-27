@@ -4,9 +4,7 @@
 
 [Introduction to Node](#topic1)
 
-[Topic 2](#topic2)
-
-[Topic 3](#topic3)
+[Pair Programming](#topic2)
 
 ---
 
@@ -49,17 +47,26 @@
 
 <a name="topic2"></a>
 
-## Topic 2
+## Pair Programming
 
+1. What are the 6 reasons for pair programming?
+  a.) Greater Efficieny
+  b.) Engaged Collaboration
+  c.) Learning from peers
+  d.) Social Skills
+  e.) Job interview readiness
+  f.) Work environment readiness
 
+2. In your experience, which of these reasons have you found most beneficial?
 
-<a name="topic3"></a>
+Engaged collaboration and learning from peers. I find pair programming fun and enjoyable. Collaboration is fun.  When something is fun, I am more engaged and do a more thorough job.
 
-## Topic 3
+Additionally, I will never know it all. Each time I have pair programmed, a partner has mentioned a technique or reason for doing somethig that I did not know prior. It makes for a great learning experience. 
 
+3. How does pair programming work?
+
+Pair programming works by having a *driver* and a *navigator*. The navigator keeps the big picture in mind, and speaks to the driver on what the code needs to do. The driver is responsible for working the computer and actually putting their fingers to the keyboard. 
 
 ~ QP3
 
 [Home](../README.md)
-
-Information put into my own words came from *Book Title* by J Duckett
