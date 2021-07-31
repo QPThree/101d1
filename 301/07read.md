@@ -4,9 +4,8 @@
 
 [REST](#topic1)
 
-[Topic 2](#topic2)
+[API's](#topic2)
 
-[Topic 3](#topic3)
 
 ---
 
@@ -44,17 +43,22 @@ PATCH partially updates data in a system.
 
 <a name="topic2"></a>
 
-## Topic 2
+## API Keys Requested
 
+### Geocoding API
+Yes
+### Weather Bit API
+Yes
 
+### Yelp API Docs
 
-<a name="topic3"></a>
+Not Yet
 
-## Topic 3
+### The Movie DB API Docs
+
+Yes
 
 
 ~ QP3
 
 [Home](../README.md)
-
-Information put into my own words came from *Book Title* by J Duckett
