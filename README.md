@@ -31,7 +31,7 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 08](./301/08read.md)
 
-[Read 08](./301/09read.md)
+[Read 09](./301/09read.md)
 
 ### 201 - Foundations of Software Development
 
