@@ -36,17 +36,31 @@ OpenID is another security technology that as the site puts it, "is for humans l
 
 * What is the difference between authorization and authentication?
 
+Authentication is verifying who the user actually *is*. Authorization is verifying the content that the authenticated person has access to.
+
 * What is Authorization Code Flow?
+
+Essentially the steps taken from user login to the user getting the information requested. It exchanges an Authorization code for a token.
 
 * What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
+A way of using ACF with mobile applications or single page applications. 
+
 * What is Implicit Flow with Form Post?
+
+IFwFP is used for public clients, or situations where the clients secret is unable to be stored securely.
 
 * What is Client Credentials Flow?
 
+This is used for applications where communication is between two machines (machine to machine). In these instances, entering a username or password wouldn't make sense of be done by the user. Instead, the system 
+
 * What is Device Authorization Flow?
 
+Device authorization flow is used for devices where user input would make for a poor experience. Instead, users are asked to go to a website on their phone or computer and enter their information that way. Logging in to an app on my TV comes to mind.
+
 * What is Resource Owner Password Flow?
+
+
 
 <a name="topic3"></a>
 
@@ -57,4 +71,4 @@ OpenID is another security technology that as the site puts it, "is for humans l
 
 [Home](../README.md)
 
-Information put into my own words came from *https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html* 
+Information put into my own words came from *https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html* & *https://auth0.com/docs/flows*
