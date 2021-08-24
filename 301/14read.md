@@ -4,9 +4,9 @@
 
 [When Women Stopped Coding](#topic1)
 
-[Topic 2](#topic2)
+[Diversity in Tech](#topic2)
 
-[Topic 3](#topic3)
+[Why diversity matters to your team](#topic3)
 
 ---
 
