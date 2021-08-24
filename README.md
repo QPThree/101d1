@@ -41,6 +41,8 @@ This site will act as a one stop shop for my Code Fellows reading notes.  The pu
 
 [Read 13](./301/13read.md)
 
+[Read 14](./301/14read.md)
+
 ### 201 - Foundations of Software Development
 
 [Read 01](./201/class01.md)
